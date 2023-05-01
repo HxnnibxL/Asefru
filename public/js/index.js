@@ -81,10 +81,10 @@ function selectIntroText() {
 
   if (screenWidth > 924) {
     // Texte pour les écrans de plus de 924 pixels de large (ordinateurs)
-    text = "Pour générer des citations, appuyez sur la touche espace.";
+    text = "Keneḍ tanast espace iw-akken aḍ i-bḍu";
   } else {
     // Texte pour les écrans de moins de 924 pixels de large (téléphones)
-    text = "Touchez l'écran pour générer des citations.";
+    text = "Keneḍ iw-akken aḍ i-bḍu";
   }
 
   return text;
@@ -104,5 +104,5 @@ function typeWriter(text, i, fnCallback) {
   }
 }
 typeWriter(text, 0, function() {
-  console.log("Dactylographie terminée !");
+  console.log("Tfuk tira !");
 });
