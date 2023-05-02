@@ -81,10 +81,10 @@ function selectIntroText() {
 
   if (screenWidth > 924) {
     // Texte pour les écrans de plus de 924 pixels de large (ordinateurs)
-    text = "Keneḍ tanast espace iw-akken aḍ i-bḍu";
+    text = "Keneḍ ɣef espace iw-akken aḍ i-bḍu";
   } else {
     // Texte pour les écrans de moins de 924 pixels de large (téléphones)
-    text = "Keneḍ iw-akken aḍ i-bḍu";
+    text = "Kkned iw-akken ad i-bdu";
   }
 
   return text;
