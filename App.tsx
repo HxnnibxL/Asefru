@@ -7,19 +7,41 @@ import quotesData from './quotes.json';
 
 const TypewriterIntro: React.FC = () => {
   const [displayText, setDisplayText] = useState('');
-  const fullText = "Appuyez sur la barre Espace pour générer des citations";
-  
+
   useEffect(() => {
+    // 1. Détection de la taille de l'écran
+    const width = window.innerWidth;
+    
+    // Mobile : Moins de 768px
+    const isMobile = width < 768;
+    
+    // Tablette : Entre 768px et 1024px (Format iPad classique et Pro Portrait)
+    const isTablet = width >= 768 && width <= 1024;
+
+    // 2. Choix du texte selon l'appareil
+    let fullText = "Appuyez sur la barre Espace pour générer des citations"; // Par défaut (Desktop)
+
+    if (isMobile) {
+      fullText = "Touchez l'écran pour découvrir une citation";
+    } else if (isTablet) {
+      // Tu peux personnaliser cette phrase pour tablette ici :
+      fullText = "Touchez l'écran pour générer une citation"; 
+    }
+
+    // 3. Animation Machine à écrire
     let i = 0;
+    setDisplayText(''); // Reset
+    
     const interval = setInterval(() => {
       setDisplayText(fullText.slice(0, i + 1));
       i++;
       if (i === fullText.length) {
         clearInterval(interval);
       }
-    }, 40);
+    }, 40); // Vitesse de frappe
+
     return () => clearInterval(interval);
-  }, []);
+  }, []); // Se lance une fois au chargement
 
   return (
     <div className="text-[#0d0c0c] dark:text-zinc-100 font-courier tracking-tight text-[20px] md:text-[24px] text-center leading-tight typewriter-cursor max-w-4xl mx-auto px-4 font-medium transition-colors duration-500">
