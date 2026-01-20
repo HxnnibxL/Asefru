@@ -1,0 +1,4744 @@
+
+{
+  "fr": [
+    {
+      "text": "Je pense, donc je suis.",
+      "author": "René Descartes",
+      "source": "Discours de la méthode"
+    },
+    {
+      "text": "Rien ne sert de courir ; il faut partir à point.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables, VI, 10"
+    },
+    {
+      "text": "L'enfer, c'est les autres.",
+      "author": "Jean-Paul Sartre",
+      "source": "Huis Clos"
+    },
+    {
+      "text": "Il faut cultiver notre jardin.",
+      "author": "Voltaire",
+      "source": "Candide"
+    },
+    {
+      "text": "Science sans conscience n'est que ruine de l'âme.",
+      "author": "François Rabelais",
+      "source": "Pantagruel"
+    },
+    {
+      "text": "Le cœur a ses raisons que la raison ne connaît point.",
+      "author": "Blaise Pascal",
+      "source": "Pensées"
+    },
+    {
+      "text": "On ne naît pas femme : on le devient.",
+      "author": "Simone de Beauvoir",
+      "source": "Le Deuxième Sexe"
+    },
+    {
+      "text": "Impossible n'est pas français.",
+      "author": "Napoléon Bonaparte",
+      "source": "Lettre au général Lemarois"
+    },
+    {
+      "text": "Un seul être vous manque et tout est dépeuplé.",
+      "author": "Alphonse de Lamartine",
+      "source": "Méditations poétiques"
+    },
+    {
+      "text": "Cueillons dès aujourd'hui les roses de la vie.",
+      "author": "Pierre de Ronsard",
+      "source": "Sonnets pour Hélène"
+    },
+    {
+      "text": "L'homme est né libre, et partout il est dans les fers.",
+      "author": "Jean-Jacques Rousseau",
+      "source": "Du contrat social"
+    },
+    {
+      "text": "A vaincre sans péril, on triomphe sans gloire.",
+      "author": "Pierre Corneille",
+      "source": "Le Cid"
+    },
+    {
+      "text": "Tous pour un, un pour tous !",
+      "author": "Alexandre Dumas",
+      "source": "Les Trois Mousquetaires"
+    },
+    {
+      "text": "Le silence éternel de ces espaces infinis m'effraie.",
+      "author": "Blaise Pascal",
+      "source": "Pensées"
+    },
+    {
+      "text": "Longtemps, je me suis couché de bonne heure.",
+      "author": "Marcel Proust",
+      "source": "Du côté de chez Swann"
+    },
+    {
+      "text": "L'État, c'est moi.",
+      "author": "Louis XIV",
+      "source": "Attribué (apocryphe)"
+    },
+    {
+      "text": "Paris vaut bien une messe.",
+      "author": "Henri IV",
+      "source": "Attribué (contexte historique)"
+    },
+    {
+      "text": "La plus grande ruse du diable est de vous faire croire qu'il n'existe pas.",
+      "author": "Charles Baudelaire",
+      "source": "Le Spleen de Paris"
+    },
+    {
+      "text": "Il n'y a pas d'amour, il n'y a que des preuves d'amour.",
+      "author": "Pierre Reverdy",
+      "source": "Le Livre de mon bord"
+    },
+    {
+      "text": "Les sanglots longs des violons de l'automne blessent mon cœur d'une langueur monotone.",
+      "author": "Paul Verlaine",
+      "source": "Chanson d'automne"
+    },
+    {
+      "text": "Aujourd'hui, maman est morte. Ou peut-être hier, je ne sais pas.",
+      "author": "Albert Camus",
+      "source": "L'Étranger"
+    },
+    {
+      "text": "Il faut imaginer Sisyphe heureux.",
+      "author": "Albert Camus",
+      "source": "Le Mythe de Sisyphe"
+    },
+    {
+      "text": "Madame Bovary, c'est moi.",
+      "author": "Gustave Flaubert",
+      "source": "Correspondance"
+    },
+    {
+      "text": "Je m'en vais, mais l'État demeurera toujours.",
+      "author": "Louis XIV",
+      "source": "Dernières paroles"
+    },
+    {
+      "text": "Les conneries, c'est comme les impôts, on finit toujours par les payer.",
+      "author": "Michel Audiard",
+      "source": "Dialogue de film"
+    },
+    {
+      "text": "Un peuple qui oublie son passé se condamne à le revivre.",
+      "author": "Winston Churchill",
+      "source": "Discours (Cité souvent en français)"
+    },
+    {
+      "text": "Pour critiquer les gens, il faut les connaître, et pour les connaître, il faut les aimer.",
+      "author": "Coluche",
+      "source": "Pensées et anecdotes"
+    },
+    {
+      "text": "Il est interdit d'interdire.",
+      "author": "Jean Yanne",
+      "source": "Slogan de Mai 68"
+    },
+    {
+      "text": "La liberté des uns s'arrête là où commence celle des autres.",
+      "author": "John Stuart Mill",
+      "source": "De la liberté (Maxime populaire en France)"
+    },
+    {
+      "text": "Hâtez-vous lentement, et sans perdre courage.",
+      "author": "Nicolas Boileau",
+      "source": "L'Art poétique"
+    },
+    {
+      "text": "Qu'il est dur d'être aimé par des cons.",
+      "author": "Cabu",
+      "source": "Caricature (Une de Charlie Hebdo)"
+    },
+    {
+      "text": "Je ne suis pas d'accord avec ce que vous dites, mais je me battrai pour que vous ayez le droit de le dire.",
+      "author": "Evelyn Beatrice Hall",
+      "source": "The Friends of Voltaire (Souvent attribué à Voltaire)"
+    },
+    {
+      "text": "L'exactitude est la politesse des rois.",
+      "author": "Louis XVIII",
+      "source": "Maxime royale"
+    },
+    {
+      "text": "L'homme est un loup pour l'homme.",
+      "author": "Plaute / Hobbes",
+      "source": "Repris couramment en philosophie"
+    },
+    {
+      "text": "Les cimetières sont pleins de gens irremplaçables.",
+      "author": "Georges Clemenceau",
+      "source": "Attribué"
+    },
+    {
+      "text": "Paris est tout petit pour ceux qui s'aiment comme nous d'un aussi grand amour.",
+      "author": "Marcel Carné / Jacques Prévert",
+      "source": "Les Enfants du Paradis"
+    },
+    {
+      "text": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "Le Petit Prince"
+    },
+    {
+      "text": "S'il vous plaît... dessine-moi un mouton !",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "Le Petit Prince"
+    },
+    {
+      "text": "Fais de ta vie un rêve, et d'un rêve, une réalité.",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "Cahiers"
+    },
+    {
+      "text": "Tu deviens responsable pour toujours de ce que tu as apprivoisé.",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "Le Petit Prince"
+    },
+    {
+      "text": "Je suis le maître de mon destin, je suis le capitaine de mon âme.",
+      "author": "William Ernest Henley",
+      "source": "Invictus (Célèbre en traduction fr)"
+    },
+    {
+      "text": "Aimer, ce n'est pas se regarder l'un l'autre, c'est regarder ensemble dans la même direction.",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "Terre des hommes"
+    },
+    {
+      "text": "Le monde a commencé sans l'homme et il s'achèvera sans lui.",
+      "author": "Claude Lévi-Strauss",
+      "source": "Tristes Tropiques"
+    },
+    {
+      "text": "L'argent ne fait pas le bonheur.",
+      "author": "Proverbe Français",
+      "source": "Tradition populaire"
+    },
+    {
+      "text": "Tout vient à point à qui sait attendre.",
+      "author": "Proverbe Français",
+      "source": "Tradition populaire"
+    },
+    {
+      "text": "Après la pluie, le beau temps.",
+      "author": "Proverbe Français",
+      "source": "Tradition populaire"
+    },
+    {
+      "text": "Il n'y a pas de fumée sans feu.",
+      "author": "Proverbe Français",
+      "source": "Tradition populaire"
+    },
+    {
+      "text": "Mieux vaut prévenir que guérir.",
+      "author": "Proverbe Français",
+      "source": "Tradition populaire"
+    },
+    {
+      "text": "L'habit ne fait pas le moine.",
+      "author": "Proverbe Français",
+      "source": "Tradition populaire"
+    },
+    {
+      "text": "Charité bien ordonnée commence par soi-même.",
+      "author": "Proverbe Français",
+      "source": "Tradition populaire"
+    },
+    {
+      "text": "Qui ne dit mot consent.",
+      "author": "Proverbe Français",
+      "source": "Tradition populaire"
+    },
+    {
+      "text": "Les chiens aboient, la caravane passe.",
+      "author": "Proverbe Arabe",
+      "source": "Adopté en langue française"
+    },
+    {
+      "text": "Ce que l'on conçoit bien s'énonce clairement.",
+      "author": "Nicolas Boileau",
+      "source": "L'Art poétique"
+    },
+    {
+      "text": "Il n'est de richesses que d'hommes.",
+      "author": "Jean Bodin",
+      "source": "Les Six Livres de la République"
+    },
+    {
+      "text": "Le style, c'est l'homme même.",
+      "author": "Buffon",
+      "source": "Discours sur le style"
+    },
+    {
+      "text": "Rien de grand ne s'est accompli dans le monde sans passion.",
+      "author": "Hegel",
+      "source": "La Raison dans l'histoire (Traduction courante)"
+    },
+    {
+      "text": "Guerre aux châteaux, paix aux chaumières !",
+      "author": "Nicolas Chamfort",
+      "source": "Devise révolutionnaire"
+    },
+    {
+      "text": "Liberté, Égalité, Fraternité.",
+      "author": "Devise de la France",
+      "source": "Constitution"
+    },
+    {
+      "text": "La guerre, c'est la continuation de la politique par d'autres moyens.",
+      "author": "Carl von Clausewitz",
+      "source": "De la guerre (Référence historique)"
+    },
+    {
+      "text": "Je vous ai compris !",
+      "author": "Charles de Gaulle",
+      "source": "Discours d'Alger (1958)"
+    },
+    {
+      "text": "La vieillesse est un naufrage.",
+      "author": "Charles de Gaulle",
+      "source": "Mémoires de guerre"
+    },
+    {
+      "text": "Il n'y a point de génie sans un grain de folie.",
+      "author": "Aristote",
+      "source": "Problèmes XXX (Traduction fr)"
+    },
+    {
+      "text": "Connais-toi toi-même.",
+      "author": "Socrate",
+      "source": "Inscription temple de Delphes"
+    },
+    {
+      "text": "Le rire est le propre de l'homme.",
+      "author": "François Rabelais",
+      "source": "Gargantua"
+    },
+    {
+      "text": "Souvent femme varie, bien fol est qui s'y fie.",
+      "author": "François Ier",
+      "source": "Citation historique"
+    },
+    {
+      "text": "Et pourtant, elle tourne.",
+      "author": "Galilée",
+      "source": "Procès de Galilée (Contexte historique)"
+    },
+    {
+      "text": "Être ou ne pas être, telle est la question.",
+      "author": "William Shakespeare",
+      "source": "Hamlet (Traduction canonique)"
+    },
+    {
+      "text": "Vouloir, c'est pouvoir.",
+      "author": "Proverbe",
+      "source": "Adage populaire"
+    },
+    {
+      "text": "Chassez le naturel, il revient au galop.",
+      "author": "Destouches",
+      "source": "Le Glorieux"
+    },
+    {
+      "text": "Pour vivre heureux, vivons cachés.",
+      "author": "Jean-Pierre Claris de Florian",
+      "source": "Fables"
+    },
+    {
+      "text": "Tout est au mieux dans le meilleur des mondes possibles.",
+      "author": "Voltaire",
+      "source": "Candide"
+    },
+    {
+      "text": "Si Dieu n'existait pas, il faudrait l'inventer.",
+      "author": "Voltaire",
+      "source": "Épîtres"
+    },
+    {
+      "text": "L'homme est un animal politique.",
+      "author": "Aristote",
+      "source": "La Politique"
+    },
+    {
+      "text": "J'accuse !",
+      "author": "Émile Zola",
+      "source": "L'Aurore (Titre de l'article)"
+    },
+    {
+      "text": "Merde !",
+      "author": "Pierre Cambronne",
+      "source": "Bataille de Waterloo (Le mot de Cambronne)"
+    },
+    {
+      "text": "Savoir pour prévoir, afin de pouvoir.",
+      "author": "Auguste Comte",
+      "source": "Cours de philosophie positive"
+    },
+    {
+      "text": "Prohétaires de tous les pays, unissez-vous !",
+      "author": "Karl Marx",
+      "source": "Manifeste du Parti communiste"
+    },
+    {
+      "text": "La religion est l'opium du peuple.",
+      "author": "Karl Marx",
+      "source": "Contribution à la critique de la philosophie du droit de Hegel"
+    },
+    {
+      "text": "Dieu est mort.",
+      "author": "Friedrich Nietzsche",
+      "source": "Le Gai Savoir"
+    },
+    {
+      "text": "Ce qui ne me tue pas me rend plus fort.",
+      "author": "Friedrich Nietzsche",
+      "source": "Crépuscule des idoles"
+    },
+    {
+      "text": "L'homme est condamné à être libre.",
+      "author": "Jean-Paul Sartre",
+      "source": "L'existentialisme est un humanisme"
+    },
+    {
+      "text": "La beauté sauvera le monde.",
+      "author": "Fiodor Dostoïevski",
+      "source": "L'Idiot"
+    },
+    {
+      "text": "Demain, dès l'aube, à l'heure où blanchit la campagne, je partirai.",
+      "author": "Victor Hugo",
+      "source": "Les Contemplations"
+    },
+    {
+      "text": "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.",
+      "author": "Albert Einstein",
+      "source": "Lettre à son fils"
+    },
+    {
+      "text": "Il n'y a que deux choses infinies : l'univers et la bêtise humaine. Mais pour l'univers, je n'en ai pas encore la certitude absolue.",
+      "author": "Albert Einstein",
+      "source": "Attribué"
+    },
+    {
+      "text": "On ne se baigne jamais deux fois dans le même fleuve.",
+      "author": "Héraclite",
+      "source": "Fragments"
+    },
+    {
+      "text": "La violence est le dernier refuge de l'incompétence.",
+      "author": "Isaac Asimov",
+      "source": "Fondation"
+    },
+    {
+      "text": "Un tien vaut mieux que deux tu l'auras.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables"
+    },
+    {
+      "text": "Toute vérité n'est pas bonne à dire.",
+      "author": "Proverbe",
+      "source": "Adage populaire"
+    },
+    {
+      "text": "L'homme est un roseau, le plus faible de la nature, mais c'est un roseau pensant.",
+      "author": "Blaise Pascal",
+      "source": "Pensées"
+    },
+    {
+      "text": "Je est un autre.",
+      "author": "Arthur Rimbaud",
+      "source": "Lettre à Paul Demeny"
+    },
+    {
+      "text": "Qu'importe le flacon, pourvu qu'on ait l'ivresse.",
+      "author": "Alfred de Musset",
+      "source": "La Coupe et les Lèvres"
+    },
+    {
+      "text": "Il faut manger pour vivre, et non pas vivre pour manger.",
+      "author": "Molière",
+      "source": "L'Avare"
+    },
+    {
+      "text": "Du haut de ces pyramides, quarante siècles vous contemplent !",
+      "author": "Napoléon Bonaparte",
+      "source": "Campagne d'Égypte"
+    },
+    {
+      "text": "Ouvrez des écoles, vous fermerez des prisons.",
+      "author": "Victor Hugo",
+      "source": "Discours (Attribué)"
+    },
+    {
+      "text": "La femme est l'avenir de l'homme.",
+      "author": "Louis Aragon",
+      "source": "Le Fou d'Elsa"
+    },
+    {
+      "text": "C'est une révolte ? — Non, Sire, c'est une révolution.",
+      "author": "Duc de La Rochefoucauld-Liancourt",
+      "source": "Dialogue avec Louis XVI (1789)"
+    },
+    {
+      "text": "Un, deux, trois... nous irons au bois.",
+      "author": "Comptine populaire",
+      "source": "Folklore français"
+    },
+    {
+      "text": "On peut rire de tout, mais pas avec n'importe qui.",
+      "author": "Pierre Desproges",
+      "source": "Les Réquisitoires du Tribunal des flagrants délires"
+    },
+    {
+      "text": "La laideur a ceci de supérieur à la beauté qu'elle ne disparaît pas avec le temps.",
+      "author": "Serge Gainsbourg",
+      "source": "Pensées"
+    },
+    {
+      "text": "Paris est un véritable océan. Jetez-y la sonde, vous n'en connaîtrez jamais la profondeur.",
+      "author": "Honoré de Balzac",
+      "source": "Le Père Goriot"
+    },
+    {
+      "text": "De l'audace, encore de l'audace, toujours de l'audace !",
+      "author": "Danton",
+      "source": "Discours à l'Assemblée législative"
+    },
+    {
+      "text": "Il n'y a point de bête si féroce qu'elle ne connaisse la pitié. Je n'en connais point, je ne suis donc pas une bête.",
+      "author": "William Shakespeare",
+      "source": "Richard III (Traduction courante)"
+    },
+    {
+      "text": "L'homme n'est pas fait pour travailler, la preuve c'est que ça le fatigue.",
+      "author": "Georges Courteline",
+      "source": "La Philosophie de Georges Courteline"
+    },
+    {
+      "text": "Heureux les fêlés, car ils laisseront passer la lumière.",
+      "author": "Michel Audiard",
+      "source": "Le Pacha (Dialogue)"
+    },
+    {
+      "text": "Le soleil ni la mort ne se peuvent regarder fixement.",
+      "author": "La Rochefoucauld",
+      "source": "Maximes"
+    },
+    {
+      "text": "Aide-toi, le ciel t'aidera.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables (Le Chartier embourbé)"
+    },
+    {
+      "text": "Qui vole un œuf vole un bœuf.",
+      "author": "Proverbe",
+      "source": "Sagesse populaire"
+    },
+    {
+      "text": "Un homme averti en vaut deux.",
+      "author": "Proverbe",
+      "source": "Sagesse populaire"
+    },
+    {
+      "text": "Le mieux est l'ennemi du bien.",
+      "author": "Montesquieu",
+      "source": "Pensées (aussi attribué à Voltaire)"
+    },
+    {
+      "text": "Nous sommes faits de l'étoffe dont sont les rêves.",
+      "author": "William Shakespeare",
+      "source": "La Tempête"
+    },
+    {
+      "text": "Il faut qu'une porte soit ouverte ou fermée.",
+      "author": "Alfred de Musset",
+      "source": "Il faut qu'une porte soit ouverte ou fermée"
+    },
+    {
+      "text": "La parole a été donnée à l'homme pour déguiser sa pensée.",
+      "author": "Stendhal (ou Talleyrand)",
+      "source": "Le Rouge et le Noir"
+    },
+    {
+      "text": "Ô temps ! suspends ton vol, et vous, heures propices ! Suspendez votre cours.",
+      "author": "Alphonse de Lamartine",
+      "source": "Méditations poétiques (Le Lac)"
+    },
+    {
+      "text": "Ah ! pour être dévot, je n'en suis pas moins homme.",
+      "author": "Molière",
+      "source": "Le Tartuffe"
+    },
+    {
+      "text": "L'oisiveté est la mère de tous les vices.",
+      "author": "Proverbe",
+      "source": "Sagesse populaire"
+    },
+    {
+      "text": "Qui dort dîne.",
+      "author": "Proverbe",
+      "source": "Usage médiéval"
+    },
+    {
+      "text": "Les jours se suivent et ne se ressemblent pas.",
+      "author": "Proverbe",
+      "source": "Sagesse populaire"
+    },
+    {
+      "text": "C'est cela l'amour, tout donner, tout sacrifier sans espoir de retour.",
+      "author": "Albert Camus",
+      "source": "Les Justes"
+    },
+    {
+      "text": "Aimer est le grand point, qu'importe la maîtresse ? Qu'importe le flacon, pourvu qu'on ait l'ivresse ?",
+      "author": "Alfred de Musset",
+      "source": "Dédicace à la Coupe et les Lèvres"
+    },
+    {
+      "text": "Le silence est d'or, la parole est d'argent.",
+      "author": "Proverbe",
+      "source": "Sagesse populaire"
+    },
+    {
+      "text": "La critique est aisée, et l'art est difficile.",
+      "author": "Philippe Néricault Destouches",
+      "source": "Le Glorieux"
+    },
+    {
+      "text": "Familles, je vous hais !",
+      "author": "André Gide",
+      "source": "Les Nourritures terrestres"
+    },
+    {
+      "text": "Marchez, courez, volez où vous guide la gloire.",
+      "author": "Nicolas Boileau",
+      "source": "Épîtres"
+    },
+    {
+      "text": "Il n'y a pas de hasard, il n'y a que des rendez-vous.",
+      "author": "Paul Éluard",
+      "source": "Attribué (Idée présente dans son œuvre)"
+    },
+    {
+      "text": "La nostalgie, c'est le désir d'on ne sait quoi.",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "Terre des hommes"
+    },
+    {
+      "text": "L'hypocrisie est un hommage que le vice rend à la vertu.",
+      "author": "La Rochefoucauld",
+      "source": "Maximes"
+    },
+    {
+      "text": "Les miroirs feraient bien de réfléchir avant de renvoyer les images.",
+      "author": "Jean Cocteau",
+      "source": "Le Sang d'un poète"
+    },
+    {
+      "text": "L'ennui naquit un jour de l'uniformité.",
+      "author": "Antoine Houdar de La Motte",
+      "source": "Fables"
+    },
+    {
+      "text": "On ne badine pas avec l'amour.",
+      "author": "Alfred de Musset",
+      "source": "Titre de pièce"
+    },
+    {
+      "text": "Soldats, je suis content de vous.",
+      "author": "Napoléon Bonaparte",
+      "source": "Proclamation après Austerlitz"
+    },
+    {
+      "text": "L'art de la guerre, c'est de soumettre l'ennemi sans combat.",
+      "author": "Sun Tzu",
+      "source": "L'Art de la guerre (Référence mondiale)"
+    },
+    {
+      "text": "Les conseillers ne sont pas les payeurs.",
+      "author": "Proverbe",
+      "source": "Sagesse populaire"
+    },
+    {
+      "text": "Tout condamné à mort aura la tête tranchée.",
+      "author": "Code Pénal de 1791",
+      "source": "Article célèbre (Guillotine)"
+    },
+    {
+      "text": "Quand le bâtiment va, tout va.",
+      "author": "Martin Nadaud",
+      "source": "Discours parlementaire (1850)"
+    },
+    {
+      "text": "Qui sème le vent récolte la tempête.",
+      "author": "Proverbe",
+      "source": "Bible (Osée 8:7)"
+    },
+    {
+      "text": "Le moi est haïssable.",
+      "author": "Blaise Pascal",
+      "source": "Pensées"
+    },
+    {
+      "text": "Il faut de tout pour faire un monde.",
+      "author": "Proverbe",
+      "source": "Sagesse populaire"
+    },
+    {
+      "text": "L'argent n'a pas d'odeur.",
+      "author": "Vespasien",
+      "source": "Histoire romaine (Taxes sur l'urine)"
+    },
+    {
+      "text": "Rien ne se perd, rien ne se crée, tout se transforme.",
+      "author": "Antoine Lavoisier",
+      "source": "Traité élémentaire de chimie"
+    },
+    {
+      "text": "Il n'est pire eau que l'eau qui dort.",
+      "author": "Proverbe",
+      "source": "Sagesse populaire"
+    },
+    {
+      "text": "Si jeunesse savait, si vieillesse pouvait.",
+      "author": "Henri Estienne",
+      "source": "Les Prémices"
+    },
+    {
+      "text": "Un roi sans divertissement est un homme plein de misères.",
+      "author": "Blaise Pascal",
+      "source": "Pensées"
+    },
+    {
+      "text": "Le superflu, chose très nécessaire.",
+      "author": "Voltaire",
+      "source": "Le Mondain"
+    },
+        {
+      "text": "Il faut que tout change pour que rien ne change.",
+      "author": "Giuseppe Tomasi di Lampedusa",
+      "source": "Le Guépard (Célèbre en traduction fr)"
+    },
+    {
+      "text": "Un intellectuel, c'est quelqu'un qui entre dans une bibliothèque même quand il ne pleut pas.",
+      "author": "André Roussin",
+      "source": "Pensées"
+    },
+    {
+      "text": "La gloire, c'est le deuil éclatant du bonheur.",
+      "author": "Madame de Staël",
+      "source": "Corinne ou l'Italie"
+    },
+    {
+      "text": "Il n'y a que les imbéciles qui ne changent pas d'avis.",
+      "author": "Proverbe",
+      "source": "Adage populaire"
+    },
+    {
+      "text": "Le temps est un grand maître, dit-on. Le malheur est qu'il tue ses élèves.",
+      "author": "Hector Berlioz",
+      "source": "Lettre"
+    },
+    {
+      "text": "Je résiste à tout, sauf à la tentation.",
+      "author": "Oscar Wilde",
+      "source": "L'Éventail de Lady Windermere (Francophone de cœur)"
+    },
+    {
+      "text": "Si ceux qui disent du mal de moi savaient ce que je pense d'eux, ils en diraient bien davantage.",
+      "author": "Sacha Guitry",
+      "source": "Pensées"
+    },
+    {
+      "text": "Les femmes honnêtes sont inconsolables des fautes qu'elles n'ont pas commises.",
+      "author": "Sacha Guitry",
+      "source": "Faisons un rêve"
+    },
+    {
+      "text": "Aimer, c'est ce qu'il y a de plus beau et de plus vrai quand tout est artificiel.",
+      "author": "Jean Anouilh",
+      "source": "Antigone"
+    },
+    {
+      "text": "C'est beau, c'est triste, c'est rien, c'est la vie.",
+      "author": "Jean Anouilh",
+      "source": "L'Invitation au château"
+    },
+    {
+      "text": "On ne fait pas d'omelette sans casser des œufs.",
+      "author": "Balzac",
+      "source": "Attribué (popularisé par lui)"
+    },
+    {
+      "text": "Le courage est la première des qualités humaines car elle garantit toutes les autres.",
+      "author": "Winston Churchill",
+      "source": "Discours (Souvent cité en fr)"
+    },
+    {
+      "text": "Il n'y a pas d'amour heureux.",
+      "author": "Louis Aragon",
+      "source": "La Diane Française"
+    },
+    {
+      "text": "L'avenir est une porte, le passé est la clé.",
+      "author": "Victor Hugo",
+      "source": "L'Homme qui rit"
+    },
+    {
+      "text": "Aimer, c'est agir.",
+      "author": "Victor Hugo",
+      "source": "Lettre à Juliette Drouet"
+    },
+    {
+      "text": "La mélancolie, c'est le bonheur d'être triste.",
+      "author": "Victor Hugo",
+      "source": "Les Travailleurs de la mer"
+    },
+    {
+      "text": "Mignonne, allons voir si la rose...",
+      "author": "Pierre de Ronsard",
+      "source": "Odes"
+    },
+    {
+      "text": "Je suis venu, j'ai vu, j'ai vaincu.",
+      "author": "Jules César",
+      "source": "Veni, vidi, vici (Latin traduit)"
+    },
+    {
+      "text": "La plus belle fille du monde ne peut donner que ce qu'elle a.",
+      "author": "Proverbe",
+      "source": "Adage populaire"
+    },
+    {
+      "text": "L'homme qui a le plus vécu n'est pas celui qui a compté le plus d'années, mais celui qui a le plus senti la vie.",
+      "author": "Jean-Jacques Rousseau",
+      "source": "Émile ou De l'éducation"
+    },
+    {
+      "text": "Les gens qui ne rient jamais ne sont pas des gens sérieux.",
+      "author": "Alphonse Allais",
+      "source": "Œuvres posthumes"
+    },
+    {
+      "text": "Le monde appartient à ceux qui se lèvent tôt.",
+      "author": "Proverbe",
+      "source": "Adage populaire"
+    },
+    {
+      "text": "L'enfer est pavé de bonnes intentions.",
+      "author": "Proverbe",
+      "source": "Origine théologique"
+    },
+    {
+      "text": "Tout ce qui est excessif est insignifiant.",
+      "author": "Talleyrand",
+      "source": "Maximes"
+    },
+    {
+      "text": "Si vous n'aimez pas la mer, si vous n'aimez pas la montagne, si vous n'aimez pas la ville... allez vous faire foutre !",
+      "author": "Jean-Luc Godard",
+      "source": "À bout de souffle (Dialogue Belmondo)"
+    },
+    {
+      "text": "La bêtise insiste toujours.",
+      "author": "Albert Camus",
+      "source": "La Peste"
+    },
+    {
+      "text": "Malheur à qui n'a plus rien à désirer !",
+      "author": "Jean-Jacques Rousseau",
+      "source": "La Nouvelle Héloïse"
+    },
+    {
+      "text": "On a souvent besoin d'un plus petit que soi.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables (Le Lion et le Rat)"
+    },
+    {
+      "text": "Patience et longueur de temps font plus que force ni que rage.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables (Le Lion et le Rat)"
+    },
+    {
+      "text": "Je plie, et ne romps pas.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables (Le Chêne et le Roseau)"
+    },
+    {
+      "text": "Trompez-moi le prix, mais ne me trompez pas la marchandise.",
+      "author": "Thomas de Montvalon",
+      "source": "Proverbe marchand"
+    },
+    {
+      "text": "La culture, c'est ce qui reste quand on a tout oublié.",
+      "author": "Édouard Herriot",
+      "source": "Notes et Maximes"
+    },
+    {
+      "text": "Il faut rire avant d'être heureux, de peur de mourir sans avoir ri.",
+      "author": "Jean de La Bruyère",
+      "source": "Les Caractères"
+    },
+    {
+      "text": "Tout le monde veut sauver la planète, mais personne ne veut descendre les poubelles.",
+      "author": "Jean Yanne",
+      "source": "Humour"
+    },
+    {
+      "text": "Le travail éloigne de nous trois grands maux : l'ennui, le vice et le besoin.",
+      "author": "Voltaire",
+      "source": "Candide"
+    },
+    {
+      "text": "Il n'y a que le premier pas qui coûte.",
+      "author": "Madame du Deffand",
+      "source": "Lettre à d'Alembert"
+    },
+    {
+      "text": "La justice sans la force est impuissante ; la force sans la justice est tyrannique.",
+      "author": "Blaise Pascal",
+      "source": "Pensées"
+    },
+    {
+      "text": "Plus on est de fous, plus on rit.",
+      "author": "Proverbe",
+      "source": "Adage populaire"
+    },
+    {
+      "text": "Nul n'est censé ignorer la loi.",
+      "author": "Principe juridique",
+      "source": "Droit français"
+    },
+    {
+      "text": "C'est la fin de la fin.",
+      "author": "Gérard de Nerval",
+      "source": "Aurélia"
+    },
+    {
+      "text": "L'absurde naît de cette confrontation entre l'appel humain et le silence déraisonnable du monde.",
+      "author": "Albert Camus",
+      "source": "Le Mythe de Sisyphe"
+    },
+    {
+      "text": "Un homme libre est celui qui ne craint pas d'aller jusqu'au bout de sa pensée.",
+      "author": "Léon Blum",
+      "source": "À l'échelle humaine"
+    },
+    {
+      "text": "Gouverner, c'est prévoir.",
+      "author": "Émile de Girardin",
+      "source": "Pensées politiques"
+    },
+    {
+      "text": "L'ennui est devenu l'angoisse.",
+      "author": "André Malraux",
+      "source": "La Condition humaine"
+    },
+    {
+      "text": "Quand le passé n'éclaire plus l'avenir, l'esprit marche dans les ténèbres.",
+      "author": "Tocqueville",
+      "source": "De la démocratie en Amérique"
+    },
+    {
+      "text": "Il faut toujours viser la lune, car même en cas d'échec, on atterrit dans les étoiles.",
+      "author": "Oscar Wilde",
+      "source": "Attribué (Citation populaire)"
+    },
+    {
+      "text": "La grandeur d'un métier est peut-être, avant tout, d'unir des hommes.",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "Terre des hommes"
+    },
+    {
+      "text": "Adieu, veau, vache, cochon, couvée.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables (La Laitière et le Pot au lait)"
+    },
+    {
+      "text": "Tel est pris qui croyait prendre.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables (Le Rat et l'Huître)"
+    },
+    {
+      "text": "Ventre affamé n'a point d'oreilles.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables"
+    },
+    {
+      "text": "Tout flatteur vit aux dépens de celui qui l'écoute.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables (Le Corbeau et le Renard)"
+    },
+    {
+      "text": "La raison du plus fort est toujours la meilleure.",
+      "author": "Jean de La Fontaine",
+      "source": "Fables (Le Loup et l'Agneau)"
+    },
+    {
+      "text": "On a beau dire, on a beau faire, qu'un homme averti en vaut deux.",
+      "author": "Regnard",
+      "source": "Le Joueur"
+    },
+    {
+      "text": "Le silence est le plus grand mépris.",
+      "author": "Proverbe",
+      "source": "Variante de 'L'indifférence est le plus grand mépris'"
+    },
+    {
+      "text": "Il faut savoir gré aux gens non seulement de ce qu'ils font, mais de ce qu'ils veulent faire.",
+      "author": "Anatole France",
+      "source": "Le Lys rouge"
+    },
+    {
+      "text": "La guerre est une chose trop grave pour être confiée à des militaires.",
+      "author": "Georges Clemenceau",
+      "source": "Mot célèbre"
+    },
+    {
+      "text": "Je suis anarchiste, au point de traverser toujours dans les clous pour ne pas avoir à discuter avec la maréchaussée.",
+      "author": "Georges Brassens",
+      "source": "Interview"
+    },
+    {
+      "text": "Elle est retrouvée. Quoi ? – L'Éternité. C'est la mer allée avec le soleil.",
+      "author": "Arthur Rimbaud",
+      "source": "L'Éternité"
+    },
+    {
+      "text": "Heureux qui comme Ulysse a fait un beau voyage.",
+      "author": "Joachim du Bellay",
+      "source": "Les Regrets"
+    },
+    {
+      "text": "France, mère des arts, des armes et des lois.",
+      "author": "Joachim du Bellay",
+      "source": "Les Regrets"
+    },
+        {
+      "text": "La vie est une histoire racontée par un idiot, pleine de bruit et de fureur, et qui ne signifie rien.",
+      "author": "William Shakespeare",
+      "source": "Macbeth"
+    },
+    {
+      "text": "Tous les animaux sont égaux, mais certains animaux sont plus égaux que d'autres.",
+      "author": "George Orwell",
+      "source": "La Ferme des animaux"
+    },
+    {
+      "text": "Big Brother vous regarde.",
+      "author": "George Orwell",
+      "source": "1984"
+    },
+    {
+      "text": "Celui qui contrôle le passé contrôle l'avenir. Celui qui contrôle le présent contrôle le passé.",
+      "author": "George Orwell",
+      "source": "1984"
+    },
+    {
+      "text": "Si Dieu n'existe pas, tout est permis.",
+      "author": "Fiodor Dostoïevski",
+      "source": "Les Frères Karamazov"
+    },
+    {
+      "text": "L'enfer, c'est la souffrance de ne plus pouvoir aimer.",
+      "author": "Fiodor Dostoïevski",
+      "source": "Les Frères Karamazov"
+    },
+    {
+      "text": "Toutes les familles heureuses se ressemblent ; chaque famille malheureuse est malheureuse à sa façon.",
+      "author": "Léon Tolstoï",
+      "source": "Anna Karénine (Incipit)"
+    },
+    {
+      "text": "Bien des années plus tard, face au peloton d'exécution, le colonel Aureliano Buendía devait se rappeler ce lointain après-midi où son père l'emmena connaître la glace.",
+      "author": "Gabriel García Márquez",
+      "source": "Cent ans de solitude (Incipit)"
+    },
+    {
+      "text": "L'homme n'est pas fait pour la défaite. Un homme peut être détruit, mais pas vaincu.",
+      "author": "Ernest Hemingway",
+      "source": "Le Vieil Homme et la Mer"
+    },
+    {
+      "text": "C'est une vérité universellement reconnue qu'un célibataire pourvu d'une belle fortune doit avoir envie de se marier.",
+      "author": "Jane Austen",
+      "source": "Orgueil et Préjugés (Incipit)"
+    },
+    {
+      "text": "Soyez vous-même, les autres sont déjà pris.",
+      "author": "Oscar Wilde",
+      "source": "Aphorismes"
+    },
+    {
+      "text": "Vivre est la chose la plus rare du monde. La plupart des gens existent, c'est tout.",
+      "author": "Oscar Wilde",
+      "source": "L'Âme de l'homme sous le socialisme"
+    },
+    {
+      "text": "Si tu plonges longtemps ton regard dans l'abîme, l'abîme regarde aussi en toi.",
+      "author": "Friedrich Nietzsche",
+      "source": "Par-delà le bien et le mal"
+    },
+    {
+      "text": "Deviens ce que tu es.",
+      "author": "Friedrich Nietzsche",
+      "source": "Ainsi parlait Zarathoustra (Repris de Pindare)"
+    },
+    {
+      "text": "Un livre doit être la hache qui brise la mer gelée en nous.",
+      "author": "Franz Kafka",
+      "source": "Lettre à Oskar Pollak"
+    },
+    {
+      "text": "Arrête-toi, instant, tu es si beau !",
+      "author": "Johann Wolfgang von Goethe",
+      "source": "Faust"
+    },
+    {
+      "text": "Vous qui entrez, laissez toute espérance.",
+      "author": "Dante Alighieri",
+      "source": "La Divine Comédie (L'Enfer)"
+    },
+    {
+      "text": "Deux choses remplissent le cœur d'une admiration et d'une vénération toujours nouvelles : le ciel étoilé au-dessus de moi et la loi morale en moi.",
+      "author": "Emmanuel Kant",
+      "source": "Critique de la raison pratique"
+    },
+    {
+      "text": "Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles.",
+      "author": "Sénèque",
+      "source": "Lettres à Lucilius"
+    },
+    {
+      "text": "La vie n'est pas courte, c'est nous qui la perdons.",
+      "author": "Sénèque",
+      "source": "De la brièveté de la vie"
+    },
+    {
+      "text": "Tout ce que je sais, c'est que je ne sais rien.",
+      "author": "Socrate",
+      "source": "Apologie de Socrate (Platon)"
+    },
+    {
+      "text": "L'homme est la mesure de toute chose.",
+      "author": "Protagoras",
+      "source": "Fragments"
+    },
+    {
+      "text": "Carpe diem (Cueille le jour présent sans te soucier du lendemain).",
+      "author": "Horace",
+      "source": "Odes"
+    },
+    {
+      "text": "Il y a quelque chose de pourri au royaume de Danemark.",
+      "author": "William Shakespeare",
+      "source": "Hamlet"
+    },
+    {
+      "text": "Le monde entier est un théâtre, et tous les hommes et les femmes n'en sont que les acteurs.",
+      "author": "William Shakespeare",
+      "source": "Comme il vous plaira"
+    },
+    {
+      "text": "Ainsi nous avançons, barques à contre-courant, sans cesse ramenés vers le passé.",
+      "author": "F. Scott Fitzgerald",
+      "source": "Gatsby le Magnifique (Dernière phrase)"
+    },
+    {
+      "text": "Je préférerais ne pas le faire (I would prefer not to).",
+      "author": "Herman Melville",
+      "source": "Bartleby le scribe"
+    },
+    {
+      "text": "Appelez-moi Ismaël.",
+      "author": "Herman Melville",
+      "source": "Moby Dick (Incipit)"
+    },
+    {
+      "text": "Quoth the Raven, 'Nevermore' (Le Corbeau dit : 'Jamais plus').",
+      "author": "Edgar Allan Poe",
+      "source": "Le Corbeau"
+    },
+    {
+      "text": "Tout ce que nous voyons ou paraissons n'est qu'un rêve dans un rêve.",
+      "author": "Edgar Allan Poe",
+      "source": "A Dream Within a Dream"
+    },
+    {
+      "text": "Ceux qui rêvent éveillés ont connaissance de mille choses qui échappent à ceux qui ne rêvent qu'endormis.",
+      "author": "Edgar Allan Poe",
+      "source": "Eleonora"
+    },
+    {
+      "text": "Lolita, lumière de ma vie, feu de mes reins.",
+      "author": "Vladimir Nabokov",
+      "source": "Lolita"
+    },
+    {
+      "text": "La vie est ailleurs.",
+      "author": "Milan Kundera",
+      "source": "La vie est ailleurs / L'insoutenable légèreté de l'être"
+    },
+    {
+      "text": "Celui qui lit beaucoup et marche beaucoup, voit beaucoup et sait beaucoup.",
+      "author": "Miguel de Cervantes",
+      "source": "Don Quichotte"
+    },
+    {
+      "text": "La liberté, Sancho, est l'un des dons les plus précieux que les cieux aient accordés aux hommes.",
+      "author": "Miguel de Cervantes",
+      "source": "Don Quichotte"
+    },
+    {
+      "text": "Vos enfants ne sont pas vos enfants. Ils sont les fils et les filles de l'appel de la Vie à elle-même.",
+      "author": "Khalil Gibran",
+      "source": "Le Prophète"
+    },
+    {
+      "text": "Le brave ne meurt qu'une fois, le lâche meurt mille fois avant sa mort.",
+      "author": "William Shakespeare",
+      "source": "Jules César"
+    },
+    {
+      "text": "Fais ce que tu dois, advienne que pourra.",
+      "author": "Proverbe chevaleresque",
+      "source": "Devise (Traduite du latin)"
+    },
+    {
+      "text": "La vie, c'est ce qui arrive quand vous êtes occupé à faire d'autres projets.",
+      "author": "John Lennon",
+      "source": "Beautiful Boy (Lyrics)"
+    },
+    {
+      "text": "J'ai fait un rêve.",
+      "author": "Martin Luther King",
+      "source": "Discours (I have a dream)"
+    },
+    {
+      "text": "Ne demandez pas ce que votre pays peut faire pour vous, demandez ce que vous pouvez faire pour votre pays.",
+      "author": "John F. Kennedy",
+      "source": "Discours d'investiture"
+    },
+    {
+      "text": "L'unique chose que nous ayons à craindre est la crainte elle-même.",
+      "author": "Franklin D. Roosevelt",
+      "source": "Discours d'investiture"
+    },
+    {
+      "text": "Seuls ceux qui sont assez fous pour penser qu'ils peuvent changer le monde y parviennent.",
+      "author": "Jack Kerouac / Steve Jobs",
+      "source": "Campagne Apple / Sur la route (Esprit)"
+    },
+    {
+      "text": "Tous ceux qui errent ne sont pas perdus.",
+      "author": "J.R.R. Tolkien",
+      "source": "Le Seigneur des Anneaux"
+    },
+    {
+      "text": "Même la plus petite personne peut changer le cours de l'avenir.",
+      "author": "J.R.R. Tolkien",
+      "source": "Le Seigneur des Anneaux"
+    },
+    {
+      "text": "Harry Potter, le garçon qui a survécu.",
+      "author": "J.K. Rowling",
+      "source": "Harry Potter à l'école des sorciers"
+    },
+    {
+      "text": "Il n'y a pas de plus grande douleur que de se souvenir des jours heureux dans la misère.",
+      "author": "Dante Alighieri",
+      "source": "La Divine Comédie (L'Enfer)"
+    },
+    {
+      "text": "Aimer et faire ce que tu veux.",
+      "author": "Saint Augustin",
+      "source": "Commentaire de l'Épître aux Parthes"
+    },
+    {
+      "text": "Donne-moi la chasteté et la continence, mais pas tout de suite.",
+      "author": "Saint Augustin",
+      "source": "Confessions"
+    },
+    {
+      "text": "Les limites de mon langage signifient les limites de mon monde.",
+      "author": "Ludwig Wittgenstein",
+      "source": "Tractatus Logico-Philosophicus"
+    },
+    {
+      "text": "Le monde est ma représentation.",
+      "author": "Arthur Schopenhauer",
+      "source": "Le Monde comme volonté et comme représentation"
+    },
+    {
+      "text": "L'insoutenable légèreté de l'être.",
+      "author": "Milan Kundera",
+      "source": "Titre de roman"
+    },
+    {
+      "text": "Quiconque sauve une vie sauve le monde entier.",
+      "author": "Talmud",
+      "source": "Traité Sanhédrin (Citation reprise dans La Liste de Schindler)"
+    },
+    {
+      "text": "Choisis un travail que tu aimes, et tu n'auras pas à travailler un seul jour de ta vie.",
+      "author": "Confucius",
+      "source": "Entretiens (Attribué)"
+    },
+    {
+      "text": "L'exigence pour nous, c'est d'apprendre à vivre.",
+      "author": "Sénèque",
+      "source": "De la vie heureuse"
+    },
+    {
+      "text": "N'allez pas là où le chemin peut mener. Allez là où il n'y a pas de chemin et laissez une trace.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Essais"
+    },
+    {
+      "text": "L'éducation est l'arme la plus puissante pour changer le monde.",
+      "author": "Nelson Mandela",
+      "source": "Discours"
+    },
+    {
+      "text": "Je suis le capitaine de mon âme.",
+      "author": "Nelson Mandela / William Henley",
+      "source": "Invictus (Poème favori de Mandela)"
+    },
+    {
+      "text": "Être bon, c'est être en harmonie avec soi-même.",
+      "author": "Oscar Wilde",
+      "source": "Le Portrait de Dorian Gray"
+    },
+    
+    {
+      "text": "La langue française est un butin de guerre.",
+      "author": "Kateb Yacine",
+      "source": "Le Polygone étoilé"
+    },
+    {
+      "text": "Si tu parles, tu meurs. Si tu te tais, tu meurs. Alors, dis et meurs.",
+      "author": "Tahar Djaout",
+      "source": "Derniers mots (Citation devenue symbole)"
+    },
+    {
+      "text": "Je ne veux pas mourir pour la patrie, je veux vivre pour elle.",
+      "author": "Mouloud Feraoun",
+      "source": "Journal, 1955-1962"
+    },
+    {
+      "text": "Chaque génération doit, dans une relative opacité, découvrir sa mission, la remplir ou la trahir.",
+      "author": "Frantz Fanon",
+      "source": "Les Damnés de la terre"
+    },
+    {
+      "text": "Nous sommes des orphelins de l'histoire, mais nous sommes les enfants de nos rêves.",
+      "author": "Mohammed Dib",
+      "source": "La Grande Maison"
+    },
+    {
+      "text": "Le silence est un exil, la parole est une patrie.",
+      "author": "Assia Djebar",
+      "source": "Nulle part dans la maison de mon père"
+    },
+    {
+      "text": "Le pardon n'efface pas le passé, mais il élargit le futur.",
+      "author": "Yasmina Khadra",
+      "source": "Ce que le jour doit à la nuit"
+    },
+    {
+      "text": "Il n'y a pas de pire solitude que celle qui naît de l'indifférence des autres.",
+      "author": "Mouloud Mammeri",
+      "source": "Le Sommeil du juste"
+    },
+    {
+      "text": "La liberté n'est pas un cadeau, c'est une conquête.",
+      "author": "Mouloud Mammeri",
+      "source": "L'Opium et le Bâton"
+    },
+    {
+      "text": "La peur est la seule frontière qui ne figure sur aucune carte.",
+      "author": "Malek Haddad",
+      "source": "Je t'offrirai une gazelle"
+    },
+    {
+      "text": "Je suis le point final d'un roman qui ne commencera jamais.",
+      "author": "Malek Haddad",
+      "source": "Le Malheur en danger"
+    },
+    {
+      "text": "Il faut savoir s'arrêter pour regarder l'herbe pousser, même si elle pousse sur des ruines.",
+      "author": "Boualem Sansal",
+      "source": "Le Serment des barbares"
+    },
+    {
+      "text": "Ce que j'ai appris, c'est que la vie est un combat permanent contre l'absurde.",
+      "author": "Kamel Daoud",
+      "source": "Meursault, contre-enquête"
+    },
+    {
+      "text": "L'ignorance mène à la peur, la peur mène à la haine et la haine conduit à la violence.",
+      "author": "Ibn Rochd (Averroès)",
+      "source": "Philosophie et religion (Attribué)"
+    },
+    {
+      "text": "Si la mer devient de l'encre et le ciel du papier, je ne pourrais décrire la douleur de la séparation.",
+      "author": "Emir Abdelkader",
+      "source": "Poèmes mystiques"
+    },
+    {
+      "text": "Ne demandez jamais quelle est l'origine d'un homme ; interrogez plutôt sa vie et ses actes.",
+      "author": "Emir Abdelkader",
+      "source": "Écrits spirituels"
+    },
+    {
+      "text": "Le monde est un livre et ceux qui ne voyagent pas n'en lisent qu'une page.",
+      "author": "Saint Augustin",
+      "source": "Confessions"
+    },
+    {
+      "text": "Aimer et faire ce que tu veux.",
+      "author": "Saint Augustin",
+      "source": "Homélies sur l'épître de Jean"
+    },
+    {
+      "text": "Il n'y a pas de héros, il n'y a que des hommes qui font ce qu'ils peuvent.",
+      "author": "Mohammed Dib",
+      "source": "L'Incendie"
+    },
+    {
+      "text": "L'homme n'est rien d'autre que ce qu'il fait de lui-même.",
+      "author": "Frantz Fanon",
+      "source": "Peau noire, masques blancs"
+    },
+    {
+      "text": "Les larmes de l'homme sont plus lourdes que la terre.",
+      "author": "Ahlam Mosteghanemi",
+      "source": "Mémoires de la chair"
+    },
+    {
+      "text": "La mémoire est le seul endroit où l'on ne peut pas nous chasser.",
+      "author": "Leïla Sebbar",
+      "source": "La Seine était rouge"
+    },
+    {
+      "text": "L'espoir est une insulte au présent si l'on ne se bat pas pour le futur.",
+      "author": "Kateb Yacine",
+      "source": "L'Homme aux sandales de caoutchouc"
+    },
+    {
+      "text": "Au milieu de l'hiver, j'ai découvert en moi un invincible été.",
+      "author": "Albert Camus",
+      "source": "L'Été (Retour à Tipasa)"
+    },
+    {
+      "text": "La justice est le pain du peuple ; il a toujours faim.",
+      "author": "Chateaubriand",
+      "source": "Mémoires d'outre-tombe"
+    },
+    {
+      "text": "La dignité ne se négocie pas.",
+      "author": "Ferhat Abbas",
+      "source": "La Nuit coloniale"
+    },
+    {
+      "text": "Écrire, c'est voler le feu.",
+      "author": "Kateb Yacine",
+      "source": "Entretiens"
+    },
+    {
+      "text": "Chacun a sa propre nature pour destin.",
+      "author": "Apulée",
+      "source": "L'Âne d'or"
+    },
+    {
+      "text": "L'exil, c'est quand on commence à parler tout seul.",
+      "author": "Rachid Boudjedra",
+      "source": "L'Escargot entêté"
+    },
+    {
+      "text": "Je suis le fils du pauvre, mais je suis riche de mes rêves.",
+      "author": "Mouloud Feraoun",
+      "source": "Le Fils du pauvre"
+    },
+    
+    {
+      "text": "La ligne de partage entre le bien et le mal ne sépare pas les États ni les partis, elle traverse le cœur de chaque homme.",
+      "author": "Alexandre Soljenitsyne",
+      "source": "L'Archipel du Goulag"
+    },
+    {
+      "text": "Et nous aimons la vie dès que nous en avons les moyens.",
+      "author": "Mahmoud Darwich",
+      "source": "Mural"
+    },
+    {
+      "text": "Nous souffrons d'un mal incurable : l'espoir.",
+      "author": "Mahmoud Darwich",
+      "source": "État de siège"
+    },
+    {
+      "text": "Le secret de l'existence humaine ne consiste pas seulement à vivre, mais à savoir pour quoi l'on vit.",
+      "author": "Fiodor Dostoïevski",
+      "source": "Les Frères Karamazov"
+    },
+    {
+      "text": "Celui qui a un pourquoi pour vivre peut supporter n'importe quel comment.",
+      "author": "Friedrich Nietzsche",
+      "source": "Le Crépuscule des idoles"
+    },
+    {
+      "text": "Vivre comme un arbre, seul et libre ; et fraternel comme une forêt.",
+      "author": "Nazim Hikmet",
+      "source": "À propos de la vie"
+    },
+    {
+      "text": "La lutte de l'homme contre le pouvoir est la lutte de la mémoire contre l'oubli.",
+      "author": "Milan Kundera",
+      "source": "Le Livre du rire et de l'oubli"
+    },
+    {
+      "text": "Je suis une cage à la recherche d'un oiseau.",
+      "author": "Franz Kafka",
+      "source": "Aphorismes de Zürau"
+    },
+    {
+      "text": "Il n'y a qu'un seul chemin. Entre en toi-même.",
+      "author": "Rainer Maria Rilke",
+      "source": "Lettres à un jeune poète"
+    },
+    {
+      "text": "J'ai en moi tous les rêves du monde.",
+      "author": "Fernando Pessoa",
+      "source": "Bureau de tabac"
+    },
+    {
+      "text": "On n'habite pas un pays, on habite une langue.",
+      "author": "Emil Cioran",
+      "source": "Aveux et Anathèmes"
+    },
+    {
+      "text": "En Afrique, quand un vieillard meurt, c'est une bibliothèque qui brûle.",
+      "author": "Amadou Hampâté Bâ",
+      "source": "Discours à l'UNESCO (1960)"
+    },
+    {
+      "text": "La peur n'empêche pas la mort, elle empêche la vie.",
+      "author": "Naguib Mahfouz",
+      "source": "Les Fils de la médina"
+    },
+    {
+      "text": "Vous pouvez couper toutes les fleurs, mais vous ne pouvez pas empêcher le printemps d'arriver.",
+      "author": "Pablo Neruda",
+      "source": "Attribué (Symbole de résistance)"
+    },
+    {
+      "text": "Les premières lueurs de l'aube ne sont pas toujours celles du soleil.",
+      "author": "Amin Maalouf",
+      "source": "Les Jardins de lumière"
+    },
+    {
+      "text": "Le monde est un bel endroit qui vaut la peine qu'on se batte pour lui.",
+      "author": "Ernest Hemingway",
+      "source": "Pour qui sonne le glas"
+    },
+    {
+      "text": "Tout le monde pense à changer le monde, mais personne ne pense à se changer soi-même.",
+      "author": "Léon Tolstoï",
+      "source": "Trois méthodes de réforme"
+    },
+    {
+      "text": "Nul ne peut atteindre l'aube sans passer par le chemin de la nuit.",
+      "author": "Khalil Gibran",
+      "source": "Le Prophète"
+    },
+    {
+      "text": "Mieux vaut mourir debout que vivre à genoux.",
+      "author": "Dolores Ibárruri (La Pasionaria)",
+      "source": "Discours (Slogan révolutionnaire)"
+    },
+    {
+      "text": "La douleur est inévitable, mais la souffrance est facultative.",
+      "author": "Haruki Murakami",
+      "source": "Autoportrait de l'auteur en coureur de fond"
+    },
+    {
+      "text": "Plutôt échouer avec honneur que réussir par la fraude.",
+      "author": "Sophocle",
+      "source": "Philoctète"
+    },
+    {
+      "text": "Les seules batailles que l'on perd sont celles que l'on ne livre pas.",
+      "author": "Vaclav Havel",
+      "source": "Méditations d'été (Attribué)"
+    },
+    {
+      "text": "Le désespoir est une forme supérieure de la critique.",
+      "author": "Léo Ferré",
+      "source": "La Solitude (Poète/Chanteur)"
+    },
+    {
+      "text": "Il n'y a pas de liberté pour les ennemis de la liberté.",
+      "author": "Saint-Just",
+      "source": "Discours à la Convention"
+    },
+    {
+      "text": "L'homme meurt une première fois à l'âge où il perd l'enthousiasme.",
+      "author": "Honoré de Balzac",
+      "source": "La Peau de chagrin"
+    },
+    {
+      "text": "Si vous fermez la porte à toutes les erreurs, la vérité restera dehors.",
+      "author": "Rabindranath Tagore",
+      "source": "L'Oiseau errant"
+    },
+    {
+      "text": "La vérité est le miroir brisé de Dieu ; chacun en ramasse un morceau et croit détenir la vérité entière.",
+      "author": "Djalâl ad-Dîn Rûmî",
+      "source": "Le Masnavi"
+    },
+    {
+      "text": "Hier, j'étais intelligent et je voulais changer le monde. Aujourd'hui, je suis sage et je me change moi-même.",
+      "author": "Djalâl ad-Dîn Rûmî",
+      "source": "Poèmes mystiques"
+    },
+    {
+      "text": "Celui qui ne connait pas l'histoire est condamné à la revivre.",
+      "author": "Karl Marx",
+      "source": "Le 18 Brumaire de Louis Bonaparte (Adapté de Hegel)"
+    },
+    {
+      "text": "La plus grande douleur est de ne plus pouvoir aimer.",
+      "author": "Fiodor Dostoïevski",
+      "source": "Les Frères Karamazov"
+    },
+    
+    {
+      "text": "Sois sage, ô ma douleur, et tiens-toi plus tranquille.",
+      "author": "Charles Baudelaire",
+      "source": "Les Fleurs du mal (Recueillement)"
+    },
+    {
+      "text": "J'ai plus de souvenirs que si j'avais mille ans.",
+      "author": "Charles Baudelaire",
+      "source": "Les Fleurs du mal (Spleen II)"
+    },
+    {
+      "text": "L'Espoir, vaincu, pleure, et l'Angoisse atroce, despotique, sur mon crâne incliné plante son drapeau noir.",
+      "author": "Charles Baudelaire",
+      "source": "Les Fleurs du mal (Spleen IV)"
+    },
+    {
+      "text": "Je suis le Ténébreux, le Veuf, l'Inconsolé, le Prince d'Aquitaine à la Tour abolie.",
+      "author": "Gérard de Nerval",
+      "source": "Les Chimères (El Desdichado)"
+    },
+    {
+      "text": "La Treizième revient... C'est encore la première ; et c'est toujours la seule, ou c'est le seul moment.",
+      "author": "Gérard de Nerval",
+      "source": "Les Chimères (Artémis)"
+    },
+    {
+      "text": "Je me crois en enfer, donc j'y suis.",
+      "author": "Arthur Rimbaud",
+      "source": "Une saison en enfer"
+    },
+    {
+      "text": "La chair est triste, hélas ! et j'ai lu tous les livres.",
+      "author": "Stéphane Mallarmé",
+      "source": "Poésies (Brise marine)"
+    },
+    {
+      "text": "Il pleure dans mon cœur comme il pleut sur la ville.",
+      "author": "Paul Verlaine",
+      "source": "Romances sans paroles"
+    },
+    {
+      "text": "Les plus désespérés sont les chants les plus beaux, et j'en sais d'immortels qui sont de purs sanglots.",
+      "author": "Alfred de Musset",
+      "source": "La Nuit de mai"
+    },
+    {
+      "text": "Seul le silence est grand ; tout le reste est faiblesse.",
+      "author": "Alfred de Vigny",
+      "source": "Les Destinées (La Mort du loup)"
+    },
+    {
+      "text": "Moi, je me sers de mon génie pour peindre les délices de la cruauté.",
+      "author": "Lautréamont",
+      "source": "Les Chants de Maldoror"
+    },
+    {
+      "text": "Je suis le fils de l'homme et de la femme, d'après ce qu'on m'a dit. Ça m'étonne... je croyais être davantage !",
+      "author": "Lautréamont",
+      "source": "Les Chants de Maldoror"
+    },
+    {
+      "text": "Levez-vous, orages désirés !",
+      "author": "Chateaubriand",
+      "source": "René"
+    },
+    {
+      "text": "Je porte en moi toutes les blessures du monde.",
+      "author": "Fernando Pessoa",
+      "source": "Le Livre de l'intranquillité"
+    },
+    {
+      "text": "Nous sommes tous au fond d'un enfer dont chaque instant est un miracle.",
+      "author": "Emil Cioran",
+      "source": "De l'inconvénient d'être né"
+    },
+    {
+      "text": "Je ferme les yeux et le monde meurt.",
+      "author": "Sylvia Plath",
+      "source": "The Bell Jar (La Cloche de détresse)"
+    },
+    {
+      "text": "Je suis terrifiée par cette chose sombre qui dort en moi.",
+      "author": "Sylvia Plath",
+      "source": "Journaux"
+    },
+    {
+      "text": "Parce que je ne pouvais m'arrêter pour la Mort, elle s'est gentiment arrêtée pour moi.",
+      "author": "Emily Dickinson",
+      "source": "Poèmes (Because I could not stop for Death)"
+    },
+    {
+      "text": "Maudit soit le jour où j'ai reçu la vie !",
+      "author": "Mary Shelley",
+      "source": "Frankenstein"
+    },
+    {
+      "text": "Je te montrerai la peur dans une poignée de poussière.",
+      "author": "T.S. Eliot",
+      "source": "La Terre vaine (The Waste Land)"
+    },
+    {
+      "text": "La mort est un maître venu d'Allemagne.",
+      "author": "Paul Celan",
+      "source": "Pavot et Mémoire (Fugue de mort)"
+    },
+    {
+      "text": "Borné dans sa nature, infini dans ses vœux, l'homme est un dieu tombé qui se souvient des cieux.",
+      "author": "Alphonse de Lamartine",
+      "source": "Méditations poétiques (L'Homme)"
+    },
+    {
+      "text": "Vivre ? les serviteurs feront cela pour nous.",
+      "author": "Villiers de l'Isle-Adam",
+      "source": "Axël"
+    },
+    {
+      "text": "La lucidité est la blessure la plus rapprochée du soleil.",
+      "author": "René Char",
+      "source": "Feuillets d'Hypnos"
+    },
+    {
+      "text": "Nul n'a jamais écrit ou peint, sculpté, modelé, construit, inventé, que pour sortir en fait de l'enfer.",
+      "author": "Antonin Artaud",
+      "source": "Van Gogh le suicidé de la société"
+    },
+    {
+      "text": "Je suis un suicidé de la société.",
+      "author": "Antonin Artaud",
+      "source": "Lettres"
+    },
+    {
+      "text": "La vérité, c'est une agonie qui n'en finit pas. La vérité de ce monde, c'est la mort.",
+      "author": "Louis-Ferdinand Céline",
+      "source": "Voyage au bout de la nuit"
+    },
+    {
+      "text": "Je suis un homme malade... Je suis un homme méchant. Je suis un homme repoussant.",
+      "author": "Fiodor Dostoïevski",
+      "source": "Les Carnets du sous-sol (Incipit)"
+    },
+    {
+      "text": "Tout est néant au monde, même mon désespoir.",
+      "author": "Giacomo Leopardi",
+      "source": "Zibaldone"
+    },
+    {
+      "text": "J'ai aimé seul ce que nul n'a aimé.",
+      "author": "Edgar Allan Poe",
+      "source": "Seul (Alone)"
+    },
+    {
+      "text": "L'émotion la plus ancienne et la plus forte de l'humanité est la peur.",
+      "author": "H.P. Lovecraft",
+      "source": "Épouvante et surnaturel en littérature"
+    },
+    {
+      "text": "Il y a un oiseau bleu dans mon cœur qui veut sortir, mais je suis trop coriace pour lui.",
+      "author": "Charles Bukowski",
+      "source": "L'Oiseau bleu (Bluebird)"
+    },
+    {
+      "text": "La souffrance est le seul sentiment qui ne ment pas.",
+      "author": "Michel Houellebecq",
+      "source": "Restez vivants"
+    },
+    {
+      "text": "Ah ! que la vie est quotidienne...",
+      "author": "Jules Laforgue",
+      "source": "Les Complaintes"
+    },
+    {
+      "text": "Sous le pont Mirabeau coule la Seine et nos amours. Faut-il qu'il m'en souvienne ?",
+      "author": "Guillaume Apollinaire",
+      "source": "Alcools"
+    },
+    {
+      "text": "Frères humains qui après nous vivez, n'ayez les cœurs contre nous endurcis.",
+      "author": "François Villon",
+      "source": "Ballade des pendus"
+    },
+    {
+      "text": "Mais où sont les neiges d'antan ?",
+      "author": "François Villon",
+      "source": "Ballade des dames du temps jadis"
+    },
+    {
+      "text": "J'ai la tristesse de tout le monde.",
+      "author": "Guy de Maupassant",
+      "source": "Chroniques"
+    },
+    {
+      "text": "La réponse est le malheur de la question.",
+      "author": "Maurice Blanchot",
+      "source": "L'Entretien infini"
+    },
+    {
+      "text": "La trahison est belle.",
+      "author": "Jean Genet",
+      "source": "Journal du voleur"
+    },
+    {
+      "text": "Je ne sais pas parler de moi sans parler de mes morts.",
+      "author": "Alejandra Pizarnik",
+      "source": "Journal"
+    },
+    {
+      "text": "Le vent se lève !... il faut tenter de vivre !",
+      "author": "Paul Valéry",
+      "source": "Charmes (Le Cimetière marin)"
+    },
+    {
+      "text": "Certains naissent pour la nuit sans fin.",
+      "author": "William Blake",
+      "source": "Auguries of Innocence"
+    },
+    {
+      "text": "Le bonheur n'est que dans le crime.",
+      "author": "Marquis de Sade",
+      "source": "L'Histoire de Juliette"
+    },
+    {
+      "text": "L'œil était dans la tombe et regardait Caïn.",
+      "author": "Victor Hugo",
+      "source": "La Légende des siècles (La Conscience)"
+    },
+    {
+      "text": "Ô triste, triste était mon âme à cause, à cause d'une femme.",
+      "author": "Paul Verlaine",
+      "source": "Romances sans paroles"
+    },
+    {
+      "text": "Nous n'irons plus au bois, les lauriers sont coupés.",
+      "author": "Théodore de Banville",
+      "source": "Les Stalactites"
+    },
+    {
+      "text": "La mort, c'est ce qui arrive aux autres.",
+      "author": "Marcel Duchamp",
+      "source": "Épitaphe"
+    },
+    {
+      "text": "A noir, E blanc, I rouge, U vert, O bleu : voyelles.",
+      "author": "Arthur Rimbaud",
+      "source": "Poésies (Voyelles)"
+    },
+    {
+      "text": "Un coup de dés jamais n'abolira le hasard.",
+      "author": "Stéphane Mallarmé",
+      "source": "Poème (Titre)"
+    },
+    {
+      "text": "Je suis le passant qui passe.",
+      "author": "Charles Cros",
+      "source": "Le Coffret de santal"
+    },
+    {
+      "text": "Il n'y a aucun médicament contre l'existence.",
+      "author": "Sarah Kane",
+      "source": "Manque (Crave)"
+    },
+    {
+      "text": "L'abîme appelle l'abîme.",
+      "author": "Psaumes",
+      "source": "Bible (Souvent cité en poésie mystique)"
+    },
+    {
+      "text": "La nuit, tous les chats sont gris.",
+      "author": "Proverbe",
+      "source": "Maxime populaire (Nuance sombre)"
+    },
+    {
+      "text": "À la fin, nous ne regretterons pas les mots de nos ennemis, mais le silence de nos amis.",
+      "author": "Martin Luther King",
+      "source": "Discours (Ton tragique)"
+    },
+    {
+      "text": "Il est grand temps de rallumer les étoiles.",
+      "author": "Guillaume Apollinaire",
+      "source": "Les Mamelles de Tirésias"
+    },
+    {
+      "text": "Le sommeil de la raison engendre des monstres.",
+      "author": "Francisco de Goya",
+      "source": "Caprices (Gravure)"
+    },
+    {
+      "text": "Si Dieu nous a faits à son image, nous le lui avons bien rendu.",
+      "author": "Voltaire",
+      "source": "Le Sottisier (Cynisme sombre)"
+    },
+    {
+      "text": "L'homme est un apprenti, la douleur est son maître.",
+      "author": "Alfred de Musset",
+      "source": "La Nuit d'octobre"
+    },
+    {
+      "text": "Tout homme a dans son cœur une chambre royale ; je l'ai murée.",
+      "author": "Gustave Flaubert",
+      "source": "Lettre à Louise Colet"
+    },
+    
+    {
+      "text": "Je vais lui faire une offre qu'il ne pourra pas refuser.",
+      "author": "Don Vito Corleone",
+      "source": "Le Parrain"
+    },
+    {
+      "text": "Que la Force soit avec toi.",
+      "author": "Han Solo / Obi-Wan Kenobi",
+      "source": "Star Wars"
+    },
+    {
+      "text": "C'est à moi que tu parles ?",
+      "author": "Travis Bickle",
+      "source": "Taxi Driver"
+    },
+    {
+      "text": "La vie, c'est comme une boîte de chocolats, on ne sait jamais sur quoi on va tomber.",
+      "author": "Forrest Gump",
+      "source": "Forrest Gump"
+    },
+    {
+      "text": "La première règle du Fight Club est : il est interdit de parler du Fight Club.",
+      "author": "Tyler Durden",
+      "source": "Fight Club"
+    },
+    {
+      "text": "Dis bonjour à mon petit copain !",
+      "author": "Tony Montana",
+      "source": "Scarface"
+    },
+    {
+      "text": "Je vois des gens qui sont morts.",
+      "author": "Cole Sear",
+      "source": "Sixième Sens"
+    },
+    {
+      "text": "Houston, on a un problème.",
+      "author": "Jim Lovell",
+      "source": "Apollo 13"
+    },
+    {
+      "text": "Mon précieux...",
+      "author": "Gollum",
+      "source": "Le Seigneur des Anneaux"
+    },
+    {
+      "text": "Vous ne passerez pas !",
+      "author": "Gandalf",
+      "source": "Le Seigneur des Anneaux"
+    },
+    {
+      "text": "Hasta la vista, baby.",
+      "author": "Le Terminator",
+      "source": "Terminator 2"
+    },
+    {
+      "text": "Je reviendrai. (I'll be back)",
+      "author": "Le Terminator",
+      "source": "Terminator"
+    },
+    {
+      "text": "Je suis le roi du monde !",
+      "author": "Jack Dawson",
+      "source": "Titanic"
+    },
+    {
+      "text": "Franchement, ma chère, c'est le cadet de mes soucis.",
+      "author": "Rhett Butler",
+      "source": "Autant en emporte le vent"
+    },
+    {
+      "text": "J'adore l'odeur du napalm au petit matin.",
+      "author": "Lieutenant-colonel Kilgore",
+      "source": "Apocalypse Now"
+    },
+    {
+      "text": "Il va nous falloir un plus grand bateau.",
+      "author": "Martin Brody",
+      "source": "Les Dents de la mer"
+    },
+    {
+      "text": "Coucou chérie !",
+      "author": "Jack Torrance",
+      "source": "Shining"
+    },
+    {
+      "text": "Tous ces moments se perdront dans l'oubli, comme les larmes dans la pluie.",
+      "author": "Roy Batty",
+      "source": "Blade Runner"
+    },
+    {
+      "text": "Garde tes amis près de toi, et tes ennemis plus près encore.",
+      "author": "Michael Corleone",
+      "source": "Le Parrain 2"
+    },
+    {
+      "text": "Mon nom est Maximus Decimus Meridius, commandant des armées du Nord, général des légions Felix...",
+      "author": "Maximus",
+      "source": "Gladiator"
+    },
+    {
+      "text": "Ce que nous faisons dans la vie résonne dans l'éternité.",
+      "author": "Maximus",
+      "source": "Gladiator"
+    },
+    {
+      "text": "Élémentaire, mon cher Watson.",
+      "author": "Sherlock Holmes",
+      "source": "Le Retour de Sherlock Holmes (Cinéma)"
+    },
+    {
+      "text": "Pourquoi cet air si sérieux ?",
+      "author": "Le Joker",
+      "source": "The Dark Knight"
+    },
+    {
+      "text": "Vers l'infini et au-delà !",
+      "author": "Buzz l'Éclair",
+      "source": "Toy Story"
+    },
+    {
+      "text": "Hakuna Matata.",
+      "author": "Timon et Pumbaa",
+      "source": "Le Roi Lion"
+    },
+    {
+      "text": "Le monde se divise en deux catégories : ceux qui ont un pistolet chargé et ceux qui creusent. Toi, tu creuses.",
+      "author": "Blondin",
+      "source": "Le Bon, la Brute et le Truand"
+    },
+    {
+      "text": "Là où on va, on n'a pas besoin... de route.",
+      "author": "Doc Brown",
+      "source": "Retour vers le futur"
+    },
+    {
+      "text": "Fuyez, pauvres fous !",
+      "author": "Gandalf",
+      "source": "Le Seigneur des Anneaux"
+    },
+    {
+      "text": "C'est une bonne situation ça, scribe ?",
+      "author": "Otis",
+      "source": "Astérix et Obélix : Mission Cléopâtre"
+    },
+    {
+      "text": "Jusqu'ici tout va bien... Mais l'important c'est pas la chute, c'est l'atterrissage.",
+      "author": "Hubert",
+      "source": "La Haine"
+    },
+    {
+      "text": "Un grand pouvoir implique de grandes responsabilités.",
+      "author": "Oncle Ben",
+      "source": "Spider-Man"
+    },
+    {
+      "text": "Je suis ton père.",
+      "author": "Darth Vader",
+      "source": "L'Empire contre-attaque"
+    },
+    {
+      "text": "Personne ne laisse Bébé dans un coin.",
+      "author": "Johnny Castle",
+      "source": "Dirty Dancing"
+    },
+    {
+      "text": "Bonjour. Et au cas où on ne se verrait pas : bon après-midi, bonne soirée et bonne nuit !",
+      "author": "Truman Burbank",
+      "source": "The Truman Show"
+    },
+    {
+      "text": "Je suis aussi seulement une fille, debout devant un garçon, lui demandant de l'aimer.",
+      "author": "Anna Scott",
+      "source": "Coup de foudre à Notting Hill"
+    },
+    {
+      "text": "Carpe Diem. Profitez du jour présent. Que votre vie soit extraordinaire.",
+      "author": "John Keating",
+      "source": "Le Cercle des poètes disparus"
+    },
+    {
+      "text": "C'est vivant ! C'est vivant !",
+      "author": "Victor Frankenstein",
+      "source": "Frankenstein (1931)"
+    },
+    {
+      "text": "On ne laisse pas tomber ses amis.",
+      "author": "Stitch",
+      "source": "Lilo et Stitch"
+    },
+    {
+      "text": "T'as de beaux yeux, tu sais.",
+      "author": "Jean Gabin",
+      "source": "Le Quai des brumes"
+    },
+    {
+      "text": "Atmosphère ! Atmosphère ! Est-ce que j'ai une gueule d'atmosphère ?",
+      "author": "Arletty",
+      "source": "Hôtel du Nord"
+    },
+    {
+      "text": "Louis, je crois que c'est le début d'une belle amitié.",
+      "author": "Rick Blaine",
+      "source": "Casablanca"
+    },
+    {
+      "text": "Tu ne le sais pas encore, mais tu es déjà mort.",
+      "author": "Kenshiro",
+      "source": "Ken le Survivant (Mème cultissime)"
+    },
+    {
+      "text": "Liberté !",
+      "author": "William Wallace",
+      "source": "Braveheart"
+    },
+    {
+      "text": "Il a mis la bague !",
+      "author": "Pippin",
+      "source": "Le Seigneur des Anneaux"
+    },
+    {
+      "text": "Qu'est-ce qu'il y a dans la boîte ?",
+      "author": "David Mills",
+      "source": "Seven"
+    },
+    {
+      "text": "Choisis la vie.",
+      "author": "Renton",
+      "source": "Trainspotting"
+    },
+    {
+      "text": "J'ai dégusté son foie avec des fèves au beurre et un excellent chianti.",
+      "author": "Hannibal Lecter",
+      "source": "Le Silence des agneaux"
+    },
+    {
+      "text": "Vengeance est un plat qui se mange froid.",
+      "author": "Proverbe Klingon (repris par La Mariée)",
+      "source": "Kill Bill / Star Trek"
+    },
+    {
+      "text": "Je suis Groot.",
+      "author": "Groot",
+      "source": "Les Gardiens de la Galaxie"
+    },
+    {
+      "text": "C'est à moi que tu parles ?",
+      "author": "La Haine (Hommage)",
+      "source": "La Haine (Reprise de Taxi Driver)"
+    },
+    {
+      "text": "Tu bluffes, Martoni.",
+      "author": "Commissaire Bialès",
+      "source": "La Cité de la peur"
+    },
+    {
+      "text": "Prenez un chewing-gum, Émile.",
+      "author": "Le King",
+      "source": "La Cité de la peur"
+    },
+    {
+      "text": "Je ne suis pas un numéro, je suis un homme libre !",
+      "author": "Numéro 6",
+      "source": "Le Prisonnier (Série culte)"
+    },
+    {
+      "text": "La vérité est ailleurs.",
+      "author": "Fox Mulder",
+      "source": "X-Files"
+    },
+    {
+      "text": "L'hiver vient.",
+      "author": "Ned Stark",
+      "source": "Game of Thrones"
+    },
+    {
+      "text": "Un Lannister paie toujours ses dettes.",
+      "author": "Tyrion Lannister",
+      "source": "Game of Thrones"
+    },
+    {
+      "text": "Le chaos n'est pas une fosse. Le chaos est une échelle.",
+      "author": "Littlefinger",
+      "source": "Game of Thrones"
+    },
+    {
+      "text": "Je suis celui qui frappe à la porte.",
+      "author": "Walter White",
+      "source": "Breaking Bad"
+    },
+    {
+      "text": "Ça, c'est un couteau.",
+      "author": "Mick Dundee",
+      "source": "Crocodile Dundee"
+    },
+    {
+      "text": "Cours, Forrest, cours !",
+      "author": "Jenny Curran",
+      "source": "Forrest Gump"
+    }
+  ],
+  "kab": [
+    {
+      "text": "Tameddurt d lbaḍna i glaq ad nidir, mačči d ugur i glaq ad nfru.",
+      "author": "Amezruy"
+    },
+    {
+      "text": "Tumert d ayen kan i d-yettnernin m'ara t-nebḍu d wiyaḍ.",
+      "author": "Tamazight"
+    },
+    {
+      "text": "S wul kan i nezmer ad nwali akken ilaq. Ayen yesɛan lqima ur t-ttawalint ara wallen.",
+      "author": "Amussnaw"
+    },
+    {
+      "text": "Cwit cwit i bnan iɣersiwen leɛcac-nsen.",
+      "author": "Inzi"
+    },
+    {
+      "text": "Ayen i d-yufa ufus n-wemdan, d aya i d-yufa wul-is.",
+      "author": "Amezruy n Leqbayel"
+    },
+    {
+      "text": "Afus deg ufus, ad nili d llsas.",
+      "author": "Inzi"
+    },
+    {
+      "text": "Win inadin, yufa.",
+      "author": "Inzi"
+    },
+    
+    {
+      "text": "Ur ḥemmleɣ gma ur ḥemmleɣ w'ara t-yewten.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je n'aime pas mon frère mais je n'aime pas que quiconque l'agresse."
+    },
+    {
+      "text": "W'ur nuriw yugad nnger, win yurwen yeṛwa amdegger.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui n'a pas d'enfants redoute l'extinction, celui qui en a est rassasié de bousculades."
+    },
+    {
+      "text": "Temlal tasa d way turew.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les parents et leurs enfants se retrouvent. ( Littéralement : \"Le foie et ce que le ventre a accouché\")"
+    },
+    {
+      "text": "Ixxamen n medden weɛṛen, ma ur nɣin ad sḍeɛfen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les maisons des étrangers sont pénibles, si elles ne tuent pas elles font maigrir."
+    },
+    {
+      "text": "Senndeɣ fell-as, Yeɣli-d fell-i.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je me suis appuyé sur lui, il est tombé sur moi."
+    },
+    {
+      "text": "Tasusmi d dwa n tmusni.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le silence est le moyen d'acquérir la connaissance."
+    },
+    {
+      "text": "Awal am uskfel n wezru , mi tekksed yiwen, ad d-yeɣli wayeḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La parole est comme un agencement de pierres, dès que tu en enlèves une, l'autre suit."
+    },
+    {
+      "text": "Kra n win yesuguten awal, ala tikarkas i deg yețnawal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Toute personne trop bavarde, ne se fait que du tort."
+    },
+    {
+      "text": "Dacu t-teffeziḍ a εemmi? d llazuq n yilindi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Que mâches-tu mon oncle? la chewing-gum de l'an dernier."
+    },
+    {
+      "text": "Yiwen waεrab yaεmar ulzuz.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Un arabe suffit à remplir le marché."
+    },
+    {
+      "text": "Tasusmi d zyen n yimi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le silence embellit la bouche. \"La parole est d'argent, le silence est d'or\"."
+    },
+    {
+      "text": "Iles yetthawalitent aqarru yettaɣitent.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La bouche dépasse les limites et la tête paye pour."
+    },
+    {
+      "text": "Yettnadi ɣef iẓuran n tagut.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il cherche les racines du brouillard."
+    },
+    {
+      "text": "Tebɣa tajeǧǧigt n tagut.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Elle veut la rose du brouillard."
+    },
+    {
+      "text": "Yebɣa ad tt-yeẓzeg, ur turiw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il veut la traire, elle n'a pas vêlé."
+    },
+    {
+      "text": "yukker hedregh yeggul umnegh",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il a volé j'ai vu, il a juré j'ai cru"
+    },
+    {
+      "text": "D lqella n yirgazen i k-yerran, a bu t-xutam d-argaz.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "C'est le manque d'hommes, qui fait des effeminés des hommes."
+    },
+    {
+      "text": "Axiṛ tidet yesseqraḥen, wala lekdeb yessefraḥen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut une vérité qui fait mal, qu'un mensonge qui réjouit."
+    },
+    {
+      "text": "A vu snat, bru i yiwet.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Toi qui cours après deux choses, tu en perdras une."
+    },
+    {
+      "text": "Ulac win izegren asif ur yelxis(yebzig).",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne peut traverser une rivière sans se mouiller."
+    },
+    {
+      "text": "Ibeddel adrum, s-weɣrum.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il a changé de clan, pour une bouchée de pain."
+    },
+    {
+      "text": "Win i wumi teεreq tikli n tsekkurt, ad yetbaε tin n tyaziṭ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui a perdu la démarche de la perdrix, acquiert celle de la poule."
+    },
+    {
+      "text": "Adfel yekkat deg udrar, semm-is di swaḥel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La neige tombe en montagne, son froid est dans la plaine."
+    },
+    {
+      "text": "A y'aɣyul a bu ccama, yeğğan leḥbab ɣer tama.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'âne à la cicatrice indélébile, a écarté tous ses amis."
+    },
+    {
+      "text": "Llan leḥbab ukellex, llan leḥbab ukexkax, yella weḥbib n tidet",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il y a des faux amis et d'autres pour s'amuser mais il y a un seul vrai ami."
+    },
+    {
+      "text": "Tayaziṭ tettarew, ayaziḍ ittetir wa 3abuthis.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La poule pond, le coq a mal au ventre."
+    },
+    {
+      "text": "Aḥeqqar kkes-as, nneɣ ernu-y-as.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le dédaigneux, retire-lui, ou rajoute-lui.(nourris le chien ou non , il va aboyer toute la nuit)."
+    },
+    {
+      "text": "Ulac tirect ur nesεi akerfa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il n'y a pas de grains sans déchet."
+    },
+    {
+      "text": "Azawal Di tmurt iderɣalen qaren-as bu laɛyun.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le myope aux yeux chassieux est beau."
+    },
+    {
+      "text": "Sεiɣ baba lamaεna yemmut.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "J'ai un père mais il est mort."
+    },
+    {
+      "text": "Anwa i-kem cekren a tislit, d-yemma teḥder xalti!",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui t'a louée ô mariée! c'est ma mère en présence de ma tante."
+    },
+    {
+      "text": "Acu ik-ixusen a bu εeryan? d tixutam.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Que te manque-t-il toi qui vas tout nu? des bagues."
+    },
+    {
+      "text": "Simmal nettidir la nsell.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Plus on vieillit, plus on en entend. (win yedren ad t-id bedren)."
+    },
+    {
+      "text": "Acu tebɣiḍ a yadarɣal ? d tafat!",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Que désires-tu le plus aveugle ? La lumière bien sûr."
+    },
+    {
+      "text": "Ulac aseḍsu ma hudent tuɣmas, ulac sbeṛ ur nesɛi tilas , ulac wi yemmuten yegla s wayla-s",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Trois choses impossibles : pas de sourire sans dents, pas de patience sans limites, et personne n'est mort en emportant ses biens."
+    },
+    {
+      "text": "Yessers uḥeddad tafḍist irfed-itt mmi-s",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Tel père tel fils."
+    },
+    {
+      "text": "Ak yeǧǧ Ṛebbi a cix d amuḍin ar d-bdu tyaziṭ-inu",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Oh mon instituteur ne guérit pas maintenant ; attend que ma poule puisses pondre des œufs."
+    },
+    {
+      "text": "Medden zhan d lmuta, Aɛli ijebbed tiɣrifin",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les gens s'occupent des morts et Ali en profite pour manger des crêpes."
+    },
+    {
+      "text": "Teǧǧa-d argaz-is yemmut, truḥ ad tt-ɛezzi tayeḍ",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Elle (la veuve) a laissé son mari (mort) chez elle, et elle est partie présenter ses condoléances à une autre veuve"
+    },
+    {
+      "text": "Azduz ddaw teslit, tislit(teslent) teggumma ad nṭeq.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le maillet est sous la mariée(un arbre), la mariée ne peut pas parler."
+    },
+    {
+      "text": "Ayen yellan di tasilt(teccuyt,tugict), ad t-id yessali uɣenja.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce qui est dans la marmite, la louche le fera remonter."
+    },
+    {
+      "text": "Ur yezmir yiwen ad yeffer iṭij s-uɣerbal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne peut cacher le soleil avec un tamis."
+    },
+    {
+      "text": "Yuker ḥedreɣ, yeggul umneɣ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il a volé, je l'ai vu, il a juré, je l'ai cru."
+    },
+    {
+      "text": "Ljerḥ yeqqaz iḥellu, yir awal yeqqaz irennu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La blessure creuse et guérit, la parole blessante ne cesse de creuser."
+    },
+    {
+      "text": "Regmat d-awal kan, tisusaf d aman kan.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les insultes ne sont que des mots, les crachats ne sont que de l'eau."
+    },
+    {
+      "text": "Lemεanda n tnuḍin i yenɣan arggaz ur nuḍin.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La jalousie des brus qui a tué un homme en parfaite santé."
+    },
+    {
+      "text": "Acebayli yeṛreẓ, zit iɛelleq.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La cuve est cassée, mais l'huile reste suspendue (en l'air)"
+    },
+    {
+      "text": "Tičṛaḍ s idamen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les tatouages se font en saignant : tout vient avec des sacrifices."
+    },
+    {
+      "text": "Afus ur tezmireḍ ad t-tɣeẓzeḍ, suden-it.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La main que tu ne peux mordre, embrasse-la."
+    },
+    {
+      "text": "Ar d-illal ad s-nsemmi ḥlal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Attendons qu'il naisse pour l'appeler croissant de lune."
+    },
+    {
+      "text": "Bu yiles, medden ak in-s.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La langue aimable, le monde est à elle."
+    },
+    {
+      "text": "Xedmeɣ lxir, yuɣal iyi-d d ixmiṛ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "J'ai fait du bien, et je reçois de la boue."
+    },
+    {
+      "text": "Aḍar ma inuda, ad d-yawi lada.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le pied qui va-et-vient, ne ramène que des ennuis."
+    },
+    {
+      "text": "Aḍar ma inuda, ad d-yawi lada neɣ ad d-yawi amedia.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le pied qui va-et-vient, ramène des ennuis ou un exemple."
+    },
+    {
+      "text": "Fkas ad yečč yizem, ad d-yas wass d netta ara k-yeččen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Nourris le lion, un jour c'est toi qu'il mangera."
+    },
+    {
+      "text": "Izem d-Mḥend i t-yenɣan, ciεa-s d-Abu Sellan.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le lion c'est M'hend qui l'a tué, la gloire c'est pour l'Abou Sellan."
+    },
+    {
+      "text": "Yusa-d ubesli, ad yessufeɣ aneṣli.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le teigneux est venu s'installer, faisant du natif un exilé."
+    },
+    {
+      "text": "Ala aɣyul i yenekṛen laṣel-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Seul un âne renie ses origines."
+    },
+    {
+      "text": "Nnan-as i userdun, anwa i d baba-k? Yenna-y-asen, jeddi d aεudiw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "On a demandé au mulet: qui est ton père? Il a répondu mon grand-père est un cheval."
+    },
+    {
+      "text": "Tena-y-as tejṛa i tgelzimt tenɣiḍ-iyi. Terra-y-as \"afus-iw seg-m i d yekka.\"",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'arbre dit a la hache : tu me tues . Celle-ci lui répondit : mon manche (\"le moyen par lequel je t'abat\") vient de toi."
+    },
+    {
+      "text": "Yenna-y-as waɣyul, eğğ-i-y-i kan ad serseɣ icenfiren-iw ɣef temzin.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ainsi disait l'âne: laisse-moi seulement poser mes lèvres sur l'orge."
+    },
+    {
+      "text": "Mer lliɣ d-win yessnen, yețțak-d ugudu lexrif?.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ah! si j'avais été plus intelligent! un dépotoir donne-t-il des figues fraîches?"
+    },
+    {
+      "text": "Win ifahmen yefhem, win ur nefhim ara yewhem.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui est intelligent a compris, celui qui n'est pas intelligent reste ébahi."
+    },
+    {
+      "text": "Lfahem ad ifhem,aɣyul ad iwhem.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui est intelligent a compris, l'âne reste ébahi."
+    },
+    {
+      "text": "lmut fell-aɣ tettgani, tarewla ula(c) sani.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La mort nous guette tous, nulle part où s'enfuir."
+    },
+    {
+      "text": "Ddunit am uxxam bu snat tewwura, ekk s-ya teffeɣḍ s-yin.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le monde est comme une maison à deux portes, tu rentres par ici et tu sors par là."
+    },
+    {
+      "text": "Aεebbuḍ ṛɣib. win i t-itebεen ur iseεεu ara aḥbib.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le ventre est un vorace, qui l'écoute restera sans amis."
+    },
+    {
+      "text": "Aɣyul mi yenti yiger, mkul ass ad yesnigir.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Quand le champ est verdoyant, l'âne y revient souvent."
+    },
+    {
+      "text": "Efk-iyi yelli-k, ternuḍ-i lεula-s d yirden.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Donne-moi ta fille en mariage, et du blé pour la nourrir."
+    },
+    {
+      "text": "Axxam ur nesεi tamɣart, am urti ur nesεi tadekkart.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Une maison sans belle-mère, c'est comme un champ de figuiers sans arbre mâle."
+    },
+    {
+      "text": "Lmut d abrid wer nexli",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La mort est une route qui ne se vide jamais de voyageurs"
+    },
+    {
+      "text": "Ciṭ i tarwiḥt ciṭ i telwiḥt",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Profitons un peu de la vie et préparons un peux pour l'au-delà"
+    },
+    {
+      "text": "Zgigu ibaḥ aɛrav ifuḥ",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "J'aime le pain mais pas le boulanger"
+    },
+    {
+      "text": "Win mi yekkes vava-s atan deg irebbi n yemm-as, win mi yekkes yemm-as, atan deg ugudu nḍent-as",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui n'a plus de père se retrouve entre les bras de sa mère. Mais celui qui n'a plus de mère, il est entre les bras de la misère."
+    },
+    {
+      "text": "Iṭij n meɣres, yessibrik iɣes.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Soleil de Mars noircit l'os"
+    },
+    {
+      "text": "Yenṭeq yennayer ɣer Fuṛar,ina-as εemmi Fuṛar, smill-itt neɣ ad tt-smilleɣ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Janvier interpelle Février, et lui dit: ami Février, fais-la pencher ou c'est moi qui la ferai pencher."
+    },
+    {
+      "text": "Leḥmurga n sbeḥ tameddit ategrdah, leḥmurga n tameddit heggit a tejjaṛ εebbit.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ciel rouge du matin, le soir grondera, ciel rouge du soir, colporteurs préparez et chargez vos bêtes."
+    },
+    {
+      "text": "Akken i s-yenna wuccen, a wi yufan lexrif xerfayen, tafsut εamayen, tagrist d unebdu yumayen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Comme disait le chacal: ah, si l'automne pouvait durer deux saisons, le printemps deux ans, l'hiver et l'été deux jours seulement."
+    },
+    
+
+    {
+      "text": "Ur yettelliq ara wemcic i tqettit.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le chat ne lâche jamais le morceau de viande. (Savoir tenir sa proie, son bien acquis)."
+    },
+    {
+      "text": "Llan agad yettimɣuṛen ttissinen, llan agad yettimɣuṛen tdellilen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il y en a qui grandissent et deviennent plus sages ; Il y en a qui grandissent et s'entêtent de plus en plus."
+    },
+    {
+      "text": "A tamɣart, bdu s wul-im, akken nella merra d arraw-im.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ô la vieille, partage avec tout ton cœur, nous sommes tous tes enfants. (Ne fais pas de différence, nous sommes tous ta chair)."
+    },
+    {
+      "text": "Iɣrem aɣyul s teḍsa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il a payé l'âne pour avoir ri. (Se dit de quelqu'un accusé à tort sur des preuves fantaisistes)."
+    },
+    {
+      "text": "Lemmer yettuɣal lxir, tili yuɣal i wezger ; ineqqec ṣṣbeḥ, tameddit nɣan-t.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Si le bienfait se payait de retour, il l'aurait été rendu au bœuf ; Le matin, il est au labour et le soir, on le tue."
+    },
+    {
+      "text": "Ar k-yegg bab tcebbwat, teččeḍ s ufus.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Attends qu'il te donne l'autorisation, celui qui t'invite à manger les crêpes, pour que tu ailles te servir de tes doigts."
+    },
+    {
+      "text": "Yemma-s umaxuf leɛmer tesluliw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La mère d'un couard n'a jamais poussé de youyous. (Un fils sans qualité ne donnera jamais à ses parents l'occasion d'éprouver une fierté)."
+    },
+    {
+      "text": "Kull ṭṭir yebna leɛcc-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Chaque oiseau construit son nid. (Chacun pour soi ; chacun soigne ses intérêts)."
+    },
+    {
+      "text": "Ma tugi-k ljennet, agwi-t.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Si le Paradis ne veut pas de toi, ne veut pas de lui non plus. (Aimons qui nous aime)."
+    },
+    {
+      "text": "Awal aẓidan yetteg abrid di lebḥer.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La parole douce fraie le chemin même sur la mer. (Il est plus facile d'obtenir quelque chose avec des paroles flatteuses)."
+    },
+    {
+      "text": "Zik tehlek tuṛet, tura t-tasa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Dans le temps, j'étais malade des poumons, maintenant c'est le foie. (Ne pas sortir de l'auberge, les problèmes s'enchaînent)."
+    },
+    {
+      "text": "Amrabeḍ ur neɣri, tif-it teqbuct yiɣi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Un marabout non lettré, un pot de petit-lait vaut mieux que lui."
+    },
+    {
+      "text": "Ur ttili t-tazart a k-ččen ; ur ttili d ilili a k-id-ssusfen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ne sois pas sucré comme des figues sèches, tu seras dégusté ; ne sois pas amer comme le laurier-rose, tu seras recraché."
+    },
+    {
+      "text": "A win yethuzzun amrar, ixef-is atan da ɣur-i.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ô toi qui es en train de remuer la corde, sache que c'est moi qui en tiens l'autre bout. (Ne pas se croire invulnérable)."
+    },
+    {
+      "text": "Aqemmuc aẓidan iteṭṭed tasedda.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le sujet à la parole douce pourra téter le pis de la lionne. (Avec une parole douce, rien d'impossible)."
+    },
+    {
+      "text": "Ad yerḥem Rebbi taɛebbuṭ yurwen aṭas.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Que Dieu donne sa miséricorde au ventre ayant beaucoup enfanté. (Avoir beaucoup d'enfants est une sécurité)."
+    },
+    {
+      "text": "Ma tewteḍ uzzal yibwas, ad tidireḍ aseggwas.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Frappe le fer (bats-toi) une fois, tu auras la paix pour longtemps. (Savoir régler ses affaires une fois pour toutes)."
+    },
+    {
+      "text": "Win yesseɣlen amzun iwet.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui lève la main c'est comme s'il avait frappé. (L'intention équivaut parfois à l'acte)."
+    },
+    {
+      "text": "Ur ḥemmleɣ baba, ur ḥemmleɣ win t-yekkaten.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je n'aime pas mon père, mais je n'aime pas celui qui le maltraite. (Malgré des différends, chacun défend son sang)."
+    },
+    {
+      "text": "Win issusufen s igenni, ttuɣalent-ed tsusaf-nni s udem-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui crache en l'air, la salive lui retombe à la figure. (Des actes maladroits peuvent se retourner contre leur auteur)."
+    },
+    {
+      "text": "Yehlek wezger, qqden aɣyul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le bœuf est malade et les soins sont prodigués à l'âne. (Se tromper de cible ; récompenser celui qui le mérite moins)."
+    },
+    {
+      "text": "Kull ci ad ifakk, ala Rebbi ara d-iqqimen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Tout prendra fin, hormis Dieu qui est éternel."
+    },
+    {
+      "text": "Ruḥeɣ ad ɛerḍeɣ, twaɛerḍeɣ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je suis parti inviter quelqu'un et c'est moi qui suis invité. (Est pris qui voulait prendre)."
+    },
+    {
+      "text": "Anda tedreg i turew.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Là où elle fait ses besoins naturels, elle met bas. (Ne pas faire la différence entre le propre et le sale, personne désordonnée)."
+    },
+    {
+      "text": "Izem bwexxam d awtul m berra.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Lion à la maison, lièvre à l'extérieur. (C'est plus facile de faire l'homme fort chez soi)."
+    },
+    {
+      "text": "Am min iceṭṭḥen i uḍerɣal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Comme danser devant un aveugle. (Faire les choses en vain)."
+    },
+    {
+      "text": "Am kečč am nekk a ljamɛ, tifeḍ-iyi ɛad s teḥsirt.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Toi et moi, ô mosquée, nous sommes pareils (démunis) ; mais tu es privilégiée par rapport à moi par ton tapis."
+    },
+    {
+      "text": "Axxam t-tɛerɛarit, tikli taɛengarit.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Sa maison est sens dessus dessous, mais il adopte une démarche fière."
+    },
+    {
+      "text": "Asmi tella neyya, aɛlaw ad idel ɛecra ; asmi tekfa neyya, aɛlaw ur id-iga.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Du temps de l'innocence, une couverture couvrait dix personnes ; depuis qu'elle a disparu, une couverture ne suffit plus."
+    },
+    {
+      "text": "Adrim ur teḥbis texrit, ur t-ḥetteb d rraselmal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les pièces que ne contient pas la bourse, ne les considère pas comme capital. (Il vaut mieux un tiens que deux tu l'auras)."
+    },
+    {
+      "text": "Nekk ssendheɣ amcic, amcic issendeh tajeḥniṭ-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je donne un ordre au chat, celui-ci agite sa queue. (Sur quelqu'un qui transmet les ordres au lieu de les exécuter)."
+    },
+    {
+      "text": "Leɛmer yeqqwel weclim d ddqiq, aɛdaw d ṣṣdiq.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Jamais le son n'est devenu farine, ni l'ennemi un ami."
+    },
+    {
+      "text": "Amennuɣ yizem yibwas ; amennuɣ bweydi kull ass.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le lion se bat une seule fois ; le chien tous les jours. (L'homme valeureux règle son affaire une fois pour toutes)."
+    },
+    {
+      "text": "Win yetnadin ɣef cwiṭ, yetruḥ-as waṭas.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui court après peu, en perd beaucoup."
+    },
+    {
+      "text": "Win ijehlen ad yeɣli.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le tyran finira par tomber."
+    },
+    {
+      "text": "Ikker-d wefrux, isselqweḍ baba-s.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'oisillon à peine sorti donne la becquée à son père. (De celui qui croit apprendre aux plus expérimentés)."
+    },
+    {
+      "text": "Inna-yas wuccen : \"Yibwas kan i tɛeddayent fell-i\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Une seule fois, dit le chacal, qu'on me joue un mauvais tour. (L'homme rusé peut être floué une fois, mais pas deux)."
+    },
+    {
+      "text": "Yiwen, temmut yemma-s, iffer-asen aqabac.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Un homme, sa mère vient de mourir, il cache la pioche (servant à creuser la tombe). (Agir de manière insolite en croyant bien faire)."
+    },
+    {
+      "text": "Yettukkek wezger s ccna ; aɣyul ayɣer yerna ?",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le bœuf s'est enfui en entendant le chant, mais l'âne pourquoi en fait-il autant ? (Imiter sans raison)."
+    },
+    {
+      "text": "Lɛar i t-itekksen d imi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'opprobre se fait disparaître par de belles paroles. (L'éloquence peut réparer une erreur)."
+    },
+    {
+      "text": "Yiwen usɣar yerwi tirect.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Un seul bâtonnet a remis sens dessus dessous le tas de bois. (Un petit élément peut modifier bien des choses)."
+    },
+    {
+      "text": "Tiyita di lḥamu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Donner le coup tant qu'il est chaud. (Battre le fer tant qu'il est chaud)."
+    },
+    {
+      "text": "Lemrafi wegden, ma d iɣuraf mazal njiren.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les perches sont prêtes ; quant à la meule, elle n'est pas encore taillée. (Commencer par l'anodin et négliger l'essentiel)."
+    },
+    {
+      "text": "Ar kem-qeblen di tmeɣra, tebduḍ ccḍeḥ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qu'ils t'invitent d'abord à la noce, pour qu'ensuite tu te prépares à danser. (Ne pas anticiper)."
+    },
+    {
+      "text": "Ɛerḍeɣ Sidi, yečča-t akkw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "J'ai invité Monsieur (à goûter) et il a tout mangé. (De quelqu'un qui ne connait pas la mesure)."
+    },
+    {
+      "text": "Zzeg-it wer turiw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La traire avant qu'elle n'ait mis bas. (Mettre la charrue avant les bœufs)."
+    },
+    {
+      "text": "Ssiweḍ akeddab ar tabburt.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Suivre le menteur jusqu'à sa porte. (Mener les choses jusqu'au bout pour vérifier)."
+    },
+    {
+      "text": "Imekken-as timess.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il lui a communiqué le feu. (Mettre de l'huile sur le feu)."
+    },
+    {
+      "text": "Am wemcic d uɣerda.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "C'est comme le chat et la souris. (Ils ne peuvent vivre en harmonie)."
+    },
+    {
+      "text": "Laẓ ur yesɛi nnif.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La faim n'a pas d'amour-propre. (Nécessité fait loi)."
+    },
+    {
+      "text": "D ayen irexsen i gzellṭen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "C'est ce qui est bon marché qui ruine. (La mauvaise qualité revient plus cher)."
+    },
+    {
+      "text": "Ayen idergen i tiṭ, idreg i wul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce qui est caché à l'œil est caché au cœur. (Loin des yeux, loin du cœur)."
+    },
+    {
+      "text": "Leḥmuregga t-tmeddit, a ttejjaṛ ɛebbit ; leḥmuregga n ṣṣbeḥ, heggit isɣaren i useqḍeḥ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ciel rouge le soir, marchands chargez ; ciel rouge le matin, préparez du bois à brûler. (Présages météo)."
+    },
+    {
+      "text": "Ad tekes taɣaṭ d wuccen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La chèvre paîtra avec le chacal. (Ménager la chèvre et le chou)."
+    },
+    {
+      "text": "Sseɣli-t-id.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Fais-le tomber. (Faire dire à quelqu'un ce qu'il cache)."
+    },
+    {
+      "text": "Ttif lḥerma neɛma.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il vaut mieux l'honneur que l'aisance. (Une bonne renommée vaut mieux qu'une ceinture dorée)."
+    },
+    {
+      "text": "Zzel afus-ik teḍbeɛḍ-t.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Étends ta main, suis-la. (Sois serviable ; laisse faire le cours des choses)."
+    },
+    {
+      "text": "Laṣel iceffu, lkareɛ itettu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'homme de bonne souche conserve la mémoire ; l'ingrat oublie."
+    },
+    {
+      "text": "A wer d-yaruw yiger-ik asennan, ma ulac a t-megreḍ s ufus.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Que ton champ ne produise pas des épines ! Sinon, tu les moissonneras à la main. (Ne crée pas de complications)."
+    },
+    {
+      "text": "Tin l-lɛebd tettazgal, tin r-Rebbi teṭṭaṭṭaf.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celle de l'homme peut rater ; celle de Dieu vise juste. (On ne peut tromper la justice divine)."
+    },
+    {
+      "text": "Lxir yeslulluc, lhemm yesɛa ukuc.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'aisance fait briller ; la misère paralyse."
+    },
+    {
+      "text": "Win tɣelbeḍ, Rebbi iɣleb-ik.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Si fort que tu sois ; Dieu l'est plus que toi."
+    },
+    {
+      "text": "Aɣyul ilemden taffa, leqrar-is d zenqa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'âne habitué à la botte de foin finira dans la rue (si on ne le nourrit plus)."
+    },
+    {
+      "text": "Ttimenyif a t-gneḍ s uɣilif, wala s nndama.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il vaut mieux que tu te couches avec des soucis qu'avec le repentir."
+    },
+    {
+      "text": "Iwet wedfel deg wedrar, asemmiḍ-is di sswaḥel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La neige est tombée sur la montagne, son froid a été ressenti dans la plaine. (Une mauvaise action retentit sur autrui)."
+    },
+    {
+      "text": "Ireqq uzegzaw f uquran.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "À cause du bois vert, le sec a brûlé. (L'innocent paie pour le coupable)."
+    },
+    {
+      "text": "Lxil iɛettel, fiḥel d bunadem.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les chevaux buttent ; à plus forte raison l'homme. (L'erreur est humaine)."
+    },
+    {
+      "text": "Mi geɣli wezger, ad qwunt tferyin.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Quand le bœuf tombe, les couteaux abondent. (Lâcheté d'attaquer celui qui est à terre)."
+    },
+    {
+      "text": "S deffir weɛdaw yibwas, tamettant d lefrida.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Survivre à un ennemi un seul jour, la mort serait un bonheur."
+    },
+    {
+      "text": "Kull yiwen i iman-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Chacun pour soi."
+    },
+    {
+      "text": "Kull wa yethallab s uḥellab-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Chacun trait dans son vase. (Chacun cherche son intérêt)."
+    },
+    {
+      "text": "Kker a dadda ad qqimeɣ ; ssusem a baba ad ssiwleɣ !",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Lève-toi mon père que je m'asseye ; tais-toi père, je parlerai ! (Ôte-toi de là que je m'y mette)."
+    },
+    {
+      "text": "Ar qeddic : kker ay aqcic ! Ma d lmerqa : tlemẓeḍ ay aqcic !",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Pour un service on dit : lève-toi enfant ! Mais pour manger on dit : tu es trop petit enfant !"
+    },
+    {
+      "text": "Ulamma teɛzizeḍ ay aḥbib, tif-ik tarwiḥt-iw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Quoi que tu me sois cher ô ami, ma personne m'est plus chère."
+    },
+    {
+      "text": "S ennig lewqam d igenni.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Au-dessus du bien que l'on fait, c'est le ciel. (Faire trop de bien ne profite pas toujours ou l'espoir du ciel suffit)."
+    },
+    {
+      "text": "Yir tagmat, xir ulac.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mauvaise fraternité, mieux vaut rien."
+    },
+    {
+      "text": "Lɛaqel iɛqel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'homme intelligent est toujours sage."
+    },
+    {
+      "text": "Ayen txedmeḍ, seg-s a t-teččeḍ ; ayen txedmeḍ a t-tafeḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce que tu as travaillé tu en mangeras les fruits ; ce que tu auras fait tu le trouveras."
+    },
+    {
+      "text": "Azger amellal, qqaren-as t-tassemt akkw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Un bœuf blanc, on dit qu'il est tout en graisse. (Ne pas se fier aux apparences)."
+    },
+    {
+      "text": "Mačči d aqedder i gweɛren, d amencas mi ara yeḥsel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce n'est pas de couper du bois qui est difficile, c'est quand la hache se coince."
+    },
+    {
+      "text": "Win ur nuniz ur ikeccem.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui ne se baisse pas ne peut entrer par une porte basse. (Pour réussir, il faut souvent s'abaisser)."
+    },
+    {
+      "text": "Ibbweḍ lhemm s axjiḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il va chercher le mal (souci) dans son trou. (Il s'expose inutilement au danger)."
+    },
+    {
+      "text": "Xiḍ acerrig-ik qbel ad ikemmel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Répare ta déchirure avant qu'elle ne s'agrandisse. (Régler un problème avant qu'il n'empire)."
+    },
+    {
+      "text": "Tiqellaɛt yeṭṭfen ɣezzi ur txab.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le piège qui a pris un rouge-gorge n'a pas été inutile. (Ne pas négliger les petits profits)."
+    },
+    {
+      "text": "A win iqqazen tasraft, ur wala deg-s ssimɣuṛ ; ammer a deg-s teɣliḍ, Rebbi itbeddil lumur.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ô toi qui creuses un fossé, ne l'agrandis pas trop ; de peur que tu ne tombes dedans, car Dieu change les destinées."
+    },
+    {
+      "text": "Mi tɛedda lɛid, taɣeḍ ufrik.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Dès que la fête est passée, achète un mouton (pour la prochaine). (Prendre ses précautions)."
+    },
+    {
+      "text": "Ur keccem ger uɣerbal t-tbaqit.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "N'entre pas entre le tamis et le plat. (Ne pas se mêler des affaires d'autrui)."
+    },
+    
+    {
+      "text": "Ssadaqa i win yerwan.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Devra donner l'aumône, le repu. (C'est celui qui en a les moyens qui peut apporter une aide)."
+    },
+    {
+      "text": "Akken i t-id-ssebba Ɛwica, ara t-yečč Ḥend u Ɛisa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Tel que l'a cuisiné Aouicha, le mets sera mangé par Hend ou Aïssa. (Le vin est tiré, il faut le boire)."
+    },
+    {
+      "text": "Mi tefra a nezdem.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La guerre finie, nous donnerons l'assaut. (Arriver après la bataille)."
+    },
+    {
+      "text": "Yexdem leɛǧeb, yerna yeḥǧeb.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il a commis l'incroyable ; de plus, il s'enferme chez lui. (Sur celui qui n'assume pas ses actes)."
+    },
+    {
+      "text": "Ur yessin ad ixid, yerna yesseɣzaf lxiḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il coud très mal, de plus, il prend un long fil. (Les moins expérimentés utilisent les plus grands moyens)."
+    },
+    {
+      "text": "A nhedder a nettemsefham, mačči a nhedder a nettemsewham.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Nous allons parler pour nous comprendre, et non pour nous étonner mutuellement. (Parlons peu, parlons bien)."
+    },
+    {
+      "text": "Xedmeɣ lxir, yuɣal-iyi d ixmir.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "J'ai fait le bien ; en retour, j'ai eu droit au mortier (ingratitude totale)."
+    },
+    {
+      "text": "Inna-yas : \"D acu tebɣiḍ ay aderɣal ?\" Inna-yas : \"Tafat !\"",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "On lui dit : \"Que désires-tu, aveugle ?\" Il répond : \"La lumière !\". (Que demande le peuple ?)."
+    },
+    {
+      "text": "Nekk ara s-heddreɣ ɣef nnger, netta a yi-qqar : \"Achal bwarraw-ik ?\"",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je lui explique mon absence de descendance et il me demande combien j'ai d'enfants. (Dialogue de sourds)."
+    },
+    {
+      "text": "Am min s-icetkan i lexla.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Autant se plaindre à un terrain vague. (Parler à celui qui fait la sourde oreille)."
+    },
+    {
+      "text": "Irden uṛeṭṭal, tameɣra s ttebriḥ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Avec du blé emprunté, on invite à la fête à grands cris. (Frime avec peu de moyens)."
+    },
+    {
+      "text": "Yenna-yas : \"A baba wten-aɣ\". Yenna-yas : \"A mmi ɛeqlen-aɣ\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "- Papa, on nous a frappés ! - Fils, ils savent qui nous sommes. (On nous maltraite car on sait qu'on est faibles)."
+    },
+    {
+      "text": "D acu i k-igan d gma, a mmi-s t-takna n yemma.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Depuis quand es-tu mon frère, toi le fils de la co-épouse de ma mère. (Méfiance envers les demi-frères)."
+    },
+    {
+      "text": "Yiwet tnadiɣ fell-as, yiwet tetnadi fell-i.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'une, je la cherche ; l'autre me cherche. (Chassé-croisé du destin)."
+    },
+    {
+      "text": "Trebbin medden mummu, ma d nekk trebbiɣ atemmu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les gens élèvent leur petit enfant, moi j'élève une meule de foin. (Prendre en charge un adulte comme un enfant)."
+    },
+    {
+      "text": "Azrem ileḥḥu ɣef uɛebbuḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le serpent marche sur le ventre. (Chacun court pour ses intérêts)."
+    },
+    {
+      "text": "Win iɛettben ad iɣellet.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a accompli des efforts en sera récompensé. (Il récoltera ce qu'il a semé)."
+    },
+    {
+      "text": "Tixsi n Ɛamer, taɛrurt teḥma, taɛebbuṭ terwa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La brebis d'Amer : le corps au chaud et le ventre rassasié. (L'être comblé)."
+    },
+    {
+      "text": "Lexbar ttawin-t iɛeṭṭaren.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les nouvelles sont colportées par les marchands ambulants. (Tout finit par se savoir)."
+    },
+    {
+      "text": "D ayen tesɛiḍ i teswiḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Tu vaux ce que tu possèdes. (Riche tu es considéré, pauvre tu es méprisé)."
+    },
+    {
+      "text": "Ddu yid-sen, a t-taɣeḍ aẓar seg-sen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Fréquente-les, tu tiendras quelque chose d'eux. (Dis-moi qui tu hantes...)."
+    },
+    {
+      "text": "La tekkseɣ isellufen i weydi, ihebbwej-ed deg-i.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "J'enlève les puces au chien, et il aboie sur moi. (Ingratitude)."
+    },
+    {
+      "text": "Azger yettwaṭṭaf seg umeẓẓuɣ, ma d lɛebd seg yiles.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le bœuf on le tient par l'oreille, l'homme par la langue (sa parole)."
+    },
+    {
+      "text": "Sɛiɣ baba, qqimeɣ da !",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "J'ai mon père pour être encore ici ? (Je ne resterais pas si je n'étais pas obligé)."
+    },
+    {
+      "text": "Ɛeddan iḍarren-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ses pieds sont passés. (Se dit d'une chose disparue ou sur le point de disparaître)."
+    },
+    {
+      "text": "Tenna-yas tezyuci : \"Ur heddreɣ alamma fsunt\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le moineau se dit : \"Je ne parlerai que lorsque les céréales auront épié\". (Ne parler qu'en présence des faits)."
+    },
+    {
+      "text": "Win yeččan tayaziḍt n yiflis, ihebber i tinn-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a mangé la poule d'un Iflis, qu'il prépare la sienne. (Un bienfait - ou une dette - doit être rendu)."
+    },
+    {
+      "text": "Win yessemanen ixeddeɛ, win iẓeẓẓun iqelleɛ...",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui endort la vigilance pour tromper, celui qui plante pour arracher... (Celui qui trahit la confiance ne mérite pas pitié)."
+    },
+    {
+      "text": "Ur yeẓri wemcic tqettit, inna-yas : \"Tfu ! Teccem !\"",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le chat n'a pas pu atteindre la viande, il a dit : \"Pouah ! Elle pue !\". (Dénigrer ce qu'on ne peut avoir)."
+    },
+    {
+      "text": "Ay iles yellan d leḥlu, acu k-yerran d lqares ?",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ô langue qui es douceur, pourquoi devenir amère ? (Conseil pour maîtriser sa parole)."
+    },
+    
+    {
+      "text": "Taḍsa n tuɣmas, mačči d tin n wul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le rire des dents n'est pas celui du cœur. (Méfiez-vous de l'hypocrisie et des sourires de façade)."
+    },
+    {
+      "text": "D lqella n nneya i yerran amɣar yettgalla.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "C'est le manque de confiance (des autres) qui oblige le vieillard à jurer. (La parole d'honneur ne suffit plus)."
+    },
+    {
+      "text": "Uccen yettbeddil cceɛr-is, mačči d tabwiḥt-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le chacal change de poil, mais pas de nature. (Chassez le naturel, il revient au galop)."
+    },
+    {
+      "text": "Tif lmeḥna, wala lmenna.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut la souffrance que la faveur demandée. (Préférer la douleur à la dette morale ou à l'humiliation)."
+    },
+    {
+      "text": "Aql-i am uɣyul n sswaq : rkeb, neɣ a d-neɣli.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je suis comme l'âne du marché : monte, ou je tombe. (Être à bout de forces, c'est l'ultimatum)."
+    },
+    {
+      "text": "Win yekkren zik, yufa-d aḥbib-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui se lève tôt a trouvé son ami. (L'avenir appartient à ceux qui se lèvent tôt / Opportunité)."
+    },
+    {
+      "text": "Ayen i d-yewwi waḍu, yewwi-t waḍu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce que le vent a apporté, le vent l'a emporté. (Mal acquis ne profite jamais / La richesse facile est éphémère)."
+    },
+    {
+      "text": "Win yeččan ɣer yiwen, iḥseb iman-is d ayla-s.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui mange chez quelqu'un se considère comme sa propriété. (La dépendance du ventre crée la servitude)."
+    },
+    {
+      "text": "Lǧar qbel ad dar.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le voisin avant la maison. (L'entourage compte plus que le lieu d'habitation)."
+    },
+    {
+      "text": "Lehlak yettak-ed ttriḥa, lmut tettak-ed rraḥa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La maladie donne une raclée, la mort donne le repos. (La souffrance est pire que la fin)."
+    },
+    {
+      "text": "Awal, ma teǧǧiḍ-t, inu ; ma tenneḍ-t, yenu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La parole, si tu la gardes, elle mûrit (est à toi) ; si tu la dis, elle est cuite (tu en es esclave)."
+    },
+    {
+      "text": "Am win iẓeṭṭen s ufus, irrez s uḍar.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Comme celui qui tisse avec la main et casse avec le pied. (Détruire maladroitement ce qu'on a construit)."
+    },
+    {
+      "text": "Imi-k, d lhem-ik.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ta bouche est ton malheur. (Si tu parles trop ou mal, tu t'attires des ennuis)."
+    },
+    {
+      "text": "Ur iḥeqqeṛ yiwen, alamma d win i t-issnen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Nul ne méprise quelqu'un, si ce n'est celui qui le connaît trop bien. (La familiarité engendre le mépris)."
+    },
+    {
+      "text": "Ddu d wi k-ifazen, ad t-fazeḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Marche avec qui te surpasse, tu te surpasseras. (L'importance de la bonne compagnie)."
+    },
+    {
+      "text": "Win yewten s ufus-is, ur t-yuɣ wara.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui frappe de sa propre main n'a pas mal. (On assume mieux les conséquences de ses propres actes)."
+    },
+    {
+      "text": "Ur yettimɣur wayen i d-yefka ufus.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce que la main a donné ne grandit pas. (Le bienfait ne doit pas être compté ou regretté)."
+    },
+    {
+      "text": "Yif-it win iheddren, wala win yessusmen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut celui qui parle que celui qui se tait. (Méfiez-vous de l'eau qui dort)."
+    },
+    {
+      "text": "Win yebɣan lmuḥal, yeqqar-as : \"Ha-t-an !\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui veut l'impossible dit : \"Le voilà !\". (Prendre ses désirs pour des réalités)."
+    },
+    {
+      "text": "Win yebɣan ad yissin lbenna n tudert, yejṛeb lmut.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui veut connaître la saveur de la vie, qu'il côtoie la mort."
+    },
+    {
+      "text": "Ayen yelhan yelha, ayen diri yelha.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce qui est bon est bon, ce qui est mauvais est bon (car on en tire une leçon)."
+    },
+    {
+      "text": "Ulac duxan mebla times.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Pas de fumée sans feu."
+    },
+    {
+      "text": "Ur s-qqar \"a gma\" i wecmat.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ne dis pas \"mon frère\" à celui qui est vil/laid (moralement)."
+    },
+    {
+      "text": "Win yeẓran yeẓra ; win ur neẓri, izad deg-s lḥir.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui sait, sait ; celui qui ne sait pas, l'angoisse augmente en lui. (L'ignorance est source de tourments)."
+    },
+    {
+      "text": "Tferrunt tluɣa, ttɣimint-d tmacahine.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les guerres finissent, les histoires restent. (Seule la mémoire survit aux conflits)."
+    },
+    {
+      "text": "Win yufan leɛwina yeswa, win yufan ttiɛad yerwa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui trouve une source boit, celui qui trouve une occasion mange. (Saisir sa chance quand elle passe)."
+    },
+    {
+      "text": "Ala win ijeṛben i yeẓran.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Seul celui qui a essayé sait. (L'expérience vaut mieux que la théorie)."
+    },
+    {
+      "text": "Yir aṛfiq, am yir lmeḥsel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le mauvais compagnon est comme une mauvaise moisson. (Il n'apporte que déception)."
+    },
+    {
+      "text": "Win yettruẓun, yeẓra anda yettarra.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui casse sait où il jette les débris. (Le coupable sait dissimuler ses traces)."
+    },
+    {
+      "text": "Win ur neqniɛ, ur yettrusu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui n'est pas rassasié ne se pose pas. (L'insatisfaction empêche la paix)."
+    },
+    
+    {
+      "text": "Win ur nesɛi lwali, yettḍullu s iɣimi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui n'a pas de protecteur (tuteur) s'use à force d'attendre. (L'importance des appuis sociaux)."
+    },
+    {
+      "text": "Ur ttamen aɣrib ɣas yeggul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ne crois pas l'étranger même s'il jure. (Méfiance envers ceux qu'on ne connaît pas)."
+    },
+    {
+      "text": "Win yekkaten s ufus-is, iḥuss i lqerḥ-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui frappe avec sa propre main ressent sa douleur. (On est mieux servi par soi-même)."
+    },
+    {
+      "text": "Tukerḍa n yiḍ, tban deg wass.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le vol de nuit apparaît au grand jour. (La vérité finit toujours par éclater)."
+    },
+    {
+      "text": "Win yerwan, iɣil d akk medden i yerwan.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui est rassasié croit que tout le monde l'est. (L'indifférence des nantis)."
+    },
+    {
+      "text": "Aql-i am tɣaḍt n tneṣlemt : zellun-tt i leɛyad, teggar i lmeḥnet.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je suis comme la chèvre du musulman : on l'égorge pour les fêtes, mais elle subit toutes les misères. (Être exploité jusqu'au bout)."
+    },
+    {
+      "text": "Win yeɣlin, ad t-id-rfden waman.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui tombe, l'eau l'emporte. (Le malheur s'abat sur celui qui est déjà à terre)."
+    },
+    {
+      "text": "Ur yettimyur wemcic deg uqrab.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le chat ne grandit pas dans une gibecière. (Il faut de l'espace et de la liberté pour s'épanouir)."
+    },
+    {
+      "text": "Yif-it win i k-yennan : \"Kker a nečč\", wala win i k-yennan : \"Kker a nruḥ\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut celui qui te dit : \"Lève-toi pour manger\", que celui qui te dit : \"Lève-toi pour partir\". (L'hospitalité vaut mieux que le renvoi)."
+    },
+    {
+      "text": "Win yebɣan ad yexdem lxir, ur yetthawar.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui veut faire le bien ne demande pas conseil. (Le bien n'a pas besoin de permission)."
+    },
+    {
+      "text": "Anda yella lḥeqq, i tella tmacint.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Là où est la justice/droit, là est le train (la force). (La raison du plus fort)."
+    },
+    {
+      "text": "Win ur neḥsib, yebla.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui ne calcule pas (ne prévoit pas) subit le malheur."
+    },
+    {
+      "text": "Adrar yezga, d nnekni i iteddu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La montagne reste, c'est nous qui partons. (L'homme passe, la nature demeure)."
+    },
+    {
+      "text": "Wi' s-yennan : \"Tizizwa d yiziyen\" ?",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui a dit : \"Les abeilles sont des mouches\" ? (Ne pas confondre l'utile et le nuisible)."
+    },
+    {
+      "text": "Ulac ddnub mebla ttaṛ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il n'y a pas de péché sans vengeance/punition."
+    },
+    {
+      "text": "Ur yettissin lqima n tqejmurt, ala win i tt-yebbin ɣef uɛerur-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ne connaît la valeur de la bûche que celui qui l'a portée sur son dos. (Seul l'effort enseigne la valeur des choses)."
+    },
+    {
+      "text": "Win yewwet uɣyul-is, yewwet iman-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui frappe son âne se frappe lui-même. (Détruire son bien, c'est se nuire)."
+    },
+    {
+      "text": "Lhḍur ṭṭuqqten, ma d lmeɛna tneqqes.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les paroles abondent, mais le sens manque. (Beaucoup de bruit pour rien)."
+    },
+    {
+      "text": "Lǧerḥ n wussan yettḥellu, lǧerḥ n yiles ur yettḥellu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La blessure du temps guérit, la blessure de la langue ne guérit pas."
+    },
+    {
+      "text": "Win i t-yeččan, yečča-t ; win i t-yejjan, yewwi-t.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui l'a mangé (le bien) l'a consommé ; celui qui l'a laissé (épargné) l'a emporté. (L'économie profite plus que la dépense immédiate)."
+    },
+    {
+      "text": "Ur yezmir yiwen ad yebnu lǧameɛ ɣef uqerruy n wayeḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne peut construire une mosquée sur la tête d'un autre. (On ne peut pas faire le bien au détriment d'autrui)."
+    },
+    {
+      "text": "Tid yelhan, ḍerrunt i warrac ; tid n ddir, ttɣimint i warrac.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les bonnes choses arrivent aux enfants ; les mauvaises choses restent aux enfants. (L'héritage est à double tranchant)."
+    },
+    {
+      "text": "D nekwni i d-yewwin aman s asif, ma d asif yewwi-yaɣ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "C'est nous qui avons amené l'eau à la rivière, mais la rivière nous a emportés. (Être victime de sa propre création)."
+    },
+    {
+      "text": "Win yebɣan ad yečč tammemt, ilaq ad yesber i tqerriḥt n tzizwa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui veut manger du miel doit supporter la piqûre des abeilles."
+    },
+    {
+      "text": "Ur tettwaṭṭaf tjeǧǧigt s ufus aberkan.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "On ne tient pas une fleur avec une main noire (sale). (La beauté exige la pureté)."
+    },
+    {
+      "text": "Aɣyul, mi d-yewweḍ s axxam, yettu taɛkemt.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'âne, une fois arrivé à la maison, oublie le fardeau. (L'ingratitude après le soulagement)."
+    },
+    {
+      "text": "Win iɛebban aṭas, ittaǧǧa aṭas.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui charge trop (sur son dos), en laisse beaucoup. (Qui trop embrasse mal étreint)."
+    },
+    {
+      "text": "Ur yettak Ṛebbi aɣrum, ala i win ur nesɛi tuɣmas.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Dieu ne donne du pain qu'à celui qui n'a pas de dents. (L'ironie du sort)."
+    },
+    {
+      "text": "Win yesɛan lḥeqq, yettnadi fell-as alamma yemmut.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a raison cherche (son droit) jusqu'à la mort. (La persévérance dans la justice)."
+    },
+    {
+      "text": "D ayen i tzerceḍ i tmegreḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "C'est ce que tu as semé que tu moissonnes."
+    },
+    
+    {
+      "text": "Win yerɣan s usewwi, yesuffu ɣef uɣyul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui s'est brûlé avec de la bouillie souffle sur du petit-lait. (Chat échaudé craint l'eau froide)."
+    },
+    {
+      "text": "Wi' s-yennan i yizem : \"Ah\" ?",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui oserait dire au lion : \"Pousse-toi\" ? (On ne conteste pas le pouvoir par la force)."
+    },
+    {
+      "text": "Tif leɣna, leḥna.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut la paix (sérénité) que la richesse."
+    },
+    {
+      "text": "Ur yettili wemcic d amjahed.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le chat ne se fait jamais maquisard (pour rien). (On n'agit rarement sans intérêt personnel)."
+    },
+    {
+      "text": "Zik ɣileɣ d ajeǧǧig, ziɣ d asennan.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Autrefois je croyais que c'était une fleur, en fait c'est une épine. (La désillusion)."
+    },
+    {
+      "text": "Lmut tettu leḥbab, ma d leḥbab ttun lmut.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La mort oublie les amis (elle les prend), et les amis oublient la mort (ils vivent insouciants)."
+    },
+    {
+      "text": "Win yettḍalab, yettɣimi ɣer tewwurt.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui demande (l'aumône/un service) reste à la porte. (L'humilité est requise quand on est demandeur)."
+    },
+    {
+      "text": "Ayen i d-nnan, nnan-t ; ayen i d-gran, a t-nwali.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce qui a été dit est dit ; ce qui reste (à venir), nous le verrons. (Se tourner vers l'avenir)."
+    },
+    {
+      "text": "Iles, d seksu ; ma d aqerru, d aẓru.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La langue est (douce comme) du couscous, mais la tête est (dure comme) une pierre. (Entêté malgré de belles paroles)."
+    },
+    {
+      "text": "Awal ɣef tewwurt, taɣaṭ ɣef tqernit.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La parole est à la porte, la chèvre est au coin. (Les murs ont des oreilles / L'information circule vite)."
+    },
+    {
+      "text": "Wi' tent-yeẓran mi zgan, ad yeggall ur frrun ; wi' tent-yeẓran mi frant, ad yeggall ur zgin.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui les voit se disputer jure qu'ils ne s'entendront jamais ; qui les voit réconciliés jure qu'ils ne se sont jamais disputés. (La complexité des relations familiales)."
+    },
+    {
+      "text": "Adrar, ma yelha, d ayla-nneɣ ; ma diri-t, d ayla-nneɣ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La montagne, qu'elle soit bonne ou mauvaise, est la nôtre. (On ne renie pas les siens ou sa patrie)."
+    },
+    {
+      "text": "Yif-it uɣrum aquran, wala ttemṛa n yiɣriben.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut du pain sec (chez soi) que la misère de l'exil."
+    },
+    {
+      "text": "Win yefkan afus-is, yefka iɣil-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui donne sa main, donne son bras. (Donner un doigt, on vous prend le bras / L'abus de confiance)."
+    },
+    {
+      "text": "Ur yettimɣuṛ yiwen s lkdeb.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne grandit par le mensonge."
+    },
+    {
+      "text": "Leɛtab yettɣimi, lmakla tfennu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'effort (le travail) reste, la nourriture disparaît. (Investir dans le durable plutôt que l'éphémère)."
+    },
+    {
+      "text": "Win ur nesɛi nnif, ur yesɛi lḥerma.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui n'a pas d'honneur (Nif) n'a pas de dignité."
+    },
+    {
+      "text": "Yif lbeḍna, wala lfeḍna.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut le secret que le scandale public."
+    },
+    {
+      "text": "Ddunit d ssuq : wa ibečč, wa yečč.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La vie est un marché : l'un vend, l'autre est mangé (ou achète). (La loi de la jungle)."
+    },
+    {
+      "text": "Ddnub n tmeṭṭut, yettwakas s waman ; ddnub n wergaz, d idammen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La faute de la femme se lave à l'eau ; la faute de l'homme se lave par le sang. (Code de l'honneur traditionnel rigoureux)."
+    },
+    {
+      "text": "Ur s-d-qqar : \"D lmuḥal\" ; ini-as : \"Ahat\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ne dis pas : \"C'est impossible\" ; dis : \"Peut-être\". (L'avenir est incertain)."
+    },
+    {
+      "text": "Ayen yellan di teqrabt, ad t-id-yessuffeɣ ufus.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce qui est dans le sac, la main le sortira. (La vérité finit toujours par se savoir)."
+    },
+    {
+      "text": "Win yettaggaden, yettidir.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a peur vit (longtemps). (La prudence est mère de sûreté)."
+    },
+    {
+      "text": "Ma tneṭqeḍ, ẓẓen awal-ik.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Si tu parles, pèse tes mots."
+    },
+    {
+      "text": "Ulac tin ur neffri, ala tin n lmut.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il n'y a pas d'affaire qui ne se règle pas, sauf celle de la mort."
+    },
+    {
+      "text": "Ur yettawi yiwen lǧennet s bessif.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne n'entre au Paradis par la force. (Le mérite ne se force pas)."
+    },
+    {
+      "text": "D nekwni i d-yeqqazen, d wiyyaḍ i d-yettawin.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "C'est nous qui creusons, et ce sont les autres qui emportent (le trésor/la récolte)."
+    },
+    {
+      "text": "Win iɛab, deg-s i tella.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui critique (un défaut) l'a en lui-même. (On voit la paille dans l'œil du voisin...)."
+    },
+    {
+      "text": "Win yellan d aḥerrig, yettnezzih.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui est libre (franc) se promène le cœur léger."
+    },
+    {
+      "text": "Ur tt-id-yewwi yiwen s ufus-is, a Ḥmed a mmi-s.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne l'a ramené (le destin) de ses propres mains, ô Ahmed mon fils. (Le destin est inévitable)."
+    },
+    
+    {
+      "text": "Itett ɣer wuccen, yettruru ɣer umeksa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il mange avec le loup et pleure avec le berger. (L'hypocrisie parfaite)."
+    },
+    {
+      "text": "Win yewten deg uzezzu, ad isell i uzenzen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui tape dans la ruche entendra le bourdonnement. (Qui cherche trouve)."
+    },
+    {
+      "text": "Ur yettwali yiwen tibuḥelt-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne voit sa propre bosse. (On voit les défauts des autres, pas les siens)."
+    },
+    {
+      "text": "Ddunit tetteddu s nnuba : wa yuli, wa yers-d.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le monde tourne par alternance : l'un monte, l'autre descend. (La roue tourne)."
+    },
+    {
+      "text": "Win yeččan irden, yegwet-as wawal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a mangé du blé parle beaucoup. (La richesse rend arrogant/bavard)."
+    },
+    {
+      "text": "Allen twalint, afus ur yezmir.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les yeux voient, la main ne peut atteindre. (L'impuissance face au désir)."
+    },
+    {
+      "text": "Ur iɣellab yiwen zzehr-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne peut vaincre sa chance (son destin). (On ne peut fuir ce qui est écrit)."
+    },
+    {
+      "text": "Awal, ma yezri, yuɣal d aẓru.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La parole, une fois passée (dite), devient pierre. (Impossible de la retirer)."
+    },
+    {
+      "text": "Win iteddun ɣef nneya, iḥemmel-it Ṛebbi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui marche avec bonne foi (naïveté/sincérité), Dieu l'aime. (L'innocence est protégée)."
+    },
+    {
+      "text": "Win yefɣen i webrid, yeccḍen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui sort du chemin glisse. (Respecter les règles/traditions évite les ennuis)."
+    },
+    {
+      "text": "Awal ɣer wayeḍ, tettneqlab tqendurt.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "De mot en mot, la robe se retourne. (Le téléphone arabe déforme la vérité)."
+    },
+    {
+      "text": "Win ur netthebbir, ur yettidir.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui ne prévoit pas (ne planifie pas) ne survit pas."
+    },
+    {
+      "text": "Mkul aɣyul yettcektay s aɣyul-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Chaque âne se plaint de son âne. (Chacun se plaint de son sort/son fardeau)."
+    },
+    {
+      "text": "Lferḥ ur d-nusi, lqarḥ yewweḍ-d.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La joie n'est pas venue, mais la douleur est arrivée. (Le malheur est plus rapide que le bonheur)."
+    },
+    {
+      "text": "Ur yettruḥu lḥeqq, d imawlan-is i yettruḥun.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le droit ne disparaît pas, ce sont ses propriétaires qui disparaissent. (La justice est éternelle, les hommes sont mortels)."
+    },
+    {
+      "text": "Yal yiwen yeẓra sani i t-qerḥet.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Chacun sait où il a mal. (On est seul face à sa douleur)."
+    },
+    {
+      "text": "Win yettnezzihin di tizi, ad t-walin wat-taddart.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui se promène sur la colline (le col), les gens du village le voient. (On ne peut rien cacher quand on s'expose)."
+    },
+    {
+      "text": "Ayen iɛeddan, am waman yezrin.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce qui est passé est comme l'eau qui a coulé. (Il ne sert à rien de regretter le passé)."
+    },
+    {
+      "text": "Am win yekkaten di tbelluṭ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Comme celui qui frappe sur du chêne-liège (ou un gland). (Faire un effort inutile / Parler dans le vide)."
+    },
+    {
+      "text": "Win iḥerṣen, yesseččay tawwurt.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui est acculé fait manger la porte. (La détresse pousse à des actes insensés)."
+    },
+    {
+      "text": "Yif-it win i d-yennan : \"D nekk\", wala win i d-yennan : \"D netta\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut celui qui dit \"C'est moi\" (qui assume), que celui qui dit \"C'est lui\" (qui dénonce)."
+    },
+    {
+      "text": "Ur yettili uɣyul d aɣyul, alamma yewweḍ s aẓekka.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'âne ne sera vraiment âne que lorsqu'il arrivera à la tombe. (On ne juge une vie qu'à sa fin)."
+    },
+    {
+      "text": "Win yettruẓun iɣes, yeẓra ayen yellan daxel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui brise l'os sait ce qu'il y a dedans. (L'expert sait de quoi il parle)."
+    },
+    {
+      "text": "D aɛdaw-ik i d aḥbib-ik.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "C'est ton ennemi qui est ton ami. (L'ennemi te montre tes défauts, l'ami les cache)."
+    },
+    {
+      "text": "Sbeṛ d aḥbib n Ṛebbi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La patience est l'amie de Dieu. (Dieu est avec les patients)."
+    },
+    {
+      "text": "Win yettaggaden aɣebbaṛ, ur ikerrez.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a peur de la poussière ne laboure pas. (Il faut se salir les mains pour réussir)."
+    },
+    {
+      "text": "Awal d aẓeṭṭa, ma ɣliḍ deg-s, teḥsleḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La parole est un tissage, si tu tombes dedans, tu es coincé. (Attention aux promesses ou aux médisances)."
+    },
+    {
+      "text": "Mačči d win i k-yewten i d aɛdaw, d win i k-yennan : \"Wwet-it\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'ennemi n'est pas celui qui t'a frappé, c'est celui qui a dit : \"Frappe-le\". (Le commanditaire est pire que l'exécutant)."
+    },
+    {
+      "text": "Tawwurt n barra, tettarra ɣer daxel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La porte de l'extérieur ramène vers l'intérieur. (Tout ce qu'on fait dehors a des répercussions chez soi)."
+    },
+    {
+      "text": "Win yebɣan ad yissin lqima n useggas, yesteqsi win ur nesɛi arraw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui veut connaître la valeur d'une année, qu'il interroge celui qui n'a pas d'enfants (stérile). (La relativité du temps et de l'attente)."
+    },
+    
+    {
+      "text": "Ssusmeɣ, ɣilen d nneyya ; hedreɣ, ɣilen d ddeɛwa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je me suis tu, ils ont cru à de la naïveté ; j'ai parlé, ils ont cru à une malédiction. (Difficile de satisfaire les gens)."
+    },
+    {
+      "text": "Aɣyul, ɣas yewweḍ ɣer Mekka, d aɣyul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Un âne, même s'il va à La Mecque, reste un âne. (Le voyage ne change pas la nature profonde)."
+    },
+    {
+      "text": "Adrim yettarra abrid deg lebḥer.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'argent trace une route dans la mer. (L'argent ouvre toutes les portes)."
+    },
+    {
+      "text": "Win yebɣan ad yelḥu, yessimɣuṛ ul-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui veut aller loin (réussir) doit élargir son cœur (être patient/tolérant)."
+    },
+    {
+      "text": "Ma tɣabeḍ a k-run ; ma teḥḍreḍ a k-ɛayren.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Si tu t'absentes, on te pleure (on te cherche) ; si tu es présent, on te critique. (L'insatisfaction éternelle des hommes)."
+    },
+    {
+      "text": "Ayen iḥemmel wul, yeqqar-as yiles.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ce que le cœur aime, la langue le dit. (L'amour ne peut se cacher longtemps)."
+    },
+    {
+      "text": "Ur iḥemmel yiwen win i t-yifen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne n'aime celui qui le surpasse. (La jalousie est humaine)."
+    },
+    {
+      "text": "Win yettnadin lmeḥnet, ad tt-yaf.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui cherche la misère (les problèmes) la trouvera."
+    },
+    {
+      "text": "Leɛmer i yella wuccen d ameksa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Jamais le chacal n'a été berger. (On ne confie pas les brebis au loup)."
+    },
+    {
+      "text": "Awal ma wezzil, iqebbel-it Ṛebbi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La parole (prière), si elle est courte, Dieu l'accepte. (La concision est une vertu)."
+    },
+    {
+      "text": "Win yefkan lerbaḥ i uɣyul-is, yili d aɣyul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui donne l'avantage à son âne est lui-même un âne. (Savoir garder l'autorité)."
+    },
+    {
+      "text": "Ur d-yettarew uɣerda, ala win ara t-iwarten.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le rat n'engendre que celui qui héritera de lui (un autre rat). (Tel père, tel fils)."
+    },
+    {
+      "text": "Ddunit, d aɣerbal : tettcezzir, tettarra-d.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La vie est un tamis : elle secoue et elle trie. (Les épreuves révèlent la vraie valeur des gens)."
+    },
+    {
+      "text": "Win iɛummen, yeẓra anda i t-yewwi wasif.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui nage sait où la rivière l'emporte. (Prendre des risques en connaissance de cause)."
+    },
+    {
+      "text": "Ur d-yeqqim wemɣar di taddart.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il n'y a plus de sage (vieux) dans le village. (Perte des repères et de l'autorité)."
+    },
+    {
+      "text": "Win ur nesɛi leḥbab, d aɣrib di tmurt-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui n'a pas d'amis est un étranger dans son propre pays."
+    },
+    {
+      "text": "Yif-it lhellu, wala lqellu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut la paix (lhellu) que l'inquiétude (lqellu)."
+    },
+    {
+      "text": "A wi yufan iman-is, uqbel ad t-yexṣer.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Si seulement on pouvait se trouver soi-même avant de se perdre. (Le regret tardif)."
+    },
+    {
+      "text": "Win i d-yennan : \"Sbeṛ\", yefka-yak lxir.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui te dit : \"Patiente\", t'a donné un bienfait. (Conseiller la patience est le meilleur conseil)."
+    },
+    {
+      "text": "Uccen, ma yexṣer, yeqqar-as : \"D lqerḥ i yi-yewten\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le chacal, quand il échoue (à la chasse), dit : \"J'ai eu une crampe\". (Trouver des excuses à son échec)."
+    },
+    {
+      "text": "Ur yettru yiwen ɣef wayeḍ, ala win yellan d ayla-s.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne pleure sur autrui, sauf si c'est le sien (son sang). (La douleur des autres nous touche peu)."
+    },
+    {
+      "text": "Win yetthuddun fell-ak, d win i k-iḥemmlen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui te défend est celui qui t'aime."
+    },
+    {
+      "text": "Ljerḥ yeqqaz, w'i t-igan yettu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La blessure creuse, et celui qui l'a faite oublie. (L'offenseur oublie, l'offensé garde la cicatrice)."
+    },
+    {
+      "text": "Win yekkaten di tnafa, ur iẓer d acu i d-yewwi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui tape dans le brouillard (sommeil) ne sait pas ce qu'il rapporte. (Agir sans conscience)."
+    },
+    {
+      "text": "Ddu d yir aṛfiq, ad k-yawi s aɣerfiq.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Marche avec un mauvais compagnon, il te mènera au ravin (précipice)."
+    },
+    {
+      "text": "Am win yettruẓun aẓru s uqerru-s.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Comme celui qui casse la pierre avec sa tête. (L'entêtement stupide)."
+    },
+    {
+      "text": "Ur yettwanɣa yiwen s lhem.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Personne ne meurt de soucis (directement, on survit malgré tout)."
+    },
+    {
+      "text": "Win yettawin lexbaṛ, yettarra-d lexbaṛ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui apporte les nouvelles (commérages) en rapporte aussi. (Méfie-toi du rapporteur)."
+    },
+    {
+      "text": "Tif leɛnaya, tayerza.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut le labour (travail) que la protection/mendicité (leɛnaya)."
+    },
+    {
+      "text": "Iles yesseččay, iles yesseqqay.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La langue nourrit, la langue tue (fait vomir/poison). (Le double tranchant de la parole)."
+    },
+    
+    {
+      "text": "Win iɛemren ulzuz, yegla s ssuq-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a rempli le marché repart avec ses achats. (On récolte le fruit de son activité)."
+    },
+    {
+      "text": "Lḥiṛ seg-wul, ifadden qquren.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Un grand courage au cœur, mais les jambes sont engourdies. (L'esprit veut, mais le corps ne suit pas)."
+    },
+    {
+      "text": "Agacuc yebɣa tikli, ifadden kkawen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La poitrine voudrait marcher, mais les jambes sont raides. (Avoir de l'ambition sans les moyens physiques)."
+    },
+    {
+      "text": "Tuffra bweɣyul deg-wtemmu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'âne se cache dans la meule de paille. (Se cacher alors que tout le monde sait où l'on est)."
+    },
+    {
+      "text": "Fkan ayaziḍ i uḍerɣal, inna-yas : \"Nutni ččan sin\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "On a donné un coq à un aveugle, il dit : \"Eux, en ont mangé deux\". (L'éternelle méfiance de celui qui ne voit pas)."
+    },
+    {
+      "text": "Seg-wmalu s asammer.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Aller du côté de l'ombre au côté du soleil. (Laisser le mauvais côté pour le bon / Changer de camp)."
+    },
+    {
+      "text": "Izem ireɛɛed di Tablazt, immut weydi g At Ɛlawan.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le lion rugit à Tablazt, le chien meurt de frayeur chez les Aït Alouan. (La peur à distance)."
+    },
+    {
+      "text": "Tafunast umi teqqareḍ : \"ppwic !\", ɣer yibwas, a t-terreẓ aḥellab-nni.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La vache à qui tu dis : \"Doucement !\", un jour elle brisera le vase à traire. (Méfie-toi de l'eau qui dort)."
+    },
+    {
+      "text": "Iruḥ ad iqqed aɣyul, iqqed azger.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il est allé cautériser l'âne, il a cautérisé le bœuf. (Dans la colère, on s'en prend au premier venu)."
+    },
+    {
+      "text": "Ruḥ, afrag-ik l-lebḥer !",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Va, que ta demeure soit la mer ! (Malédiction : que tu sois emporté/perdu)."
+    },
+    {
+      "text": "Win yetteggiren gma-s n ncaf, ad fell-as itnadi, ur t-yettaf.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui chasse son frère avec colère, le cherchera un jour sans le trouver. (Ne pas rejeter les siens)."
+    },
+    {
+      "text": "Imi yeččur wul-iw, iqqur yimi-w.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Quand mon cœur est plein (de peine), ma bouche est sèche. (La douleur coupe la parole)."
+    },
+    {
+      "text": "Mi yezɛef yigeni, a d-ibru i wedfel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Quand le ciel est en colère, il fait tomber la neige. (Conséquence naturelle)."
+    },
+    {
+      "text": "Kebc-ed lḥiḍ, yibwas a d-iddrem.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Gratte un mur, un jour il tombera. (À force de chercher les ennuis, on les trouve)."
+    },
+    {
+      "text": "Ddula udebbuz, leḥram iguz ; ddula m-malek, leḥram balek !",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Règne du bâton, le crime abonde ; règne d'un roi juste, le crime s'éloigne. (L'ordre dépend de la justice)."
+    },
+    {
+      "text": "Sɛeddi-yi tiɣzert-agi, neɣ-iyi g tin nniḍen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Fais-moi traverser ce ruisseau, et tue-moi à l'autre. (Sauve-moi pour l'instant, on verra après)."
+    },
+    {
+      "text": "Ayla n cchiḥ, itett-it lmerciḥ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les biens de l'avare, l'héritier (dissipateur) les mange."
+    },
+    {
+      "text": "Yugar imendayen ifrax.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il y a plus d'oiseleurs que d'oiseaux. (Trop de prétendants pour peu de prises)."
+    },
+    {
+      "text": "Ssɛaya tedda t-tmussni.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La richesse accompagne le savoir."
+    },
+    {
+      "text": "Awal ur netwaqbal am yiɣifel deg-wɣerbal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Une parole rejetée est comme un déchet dans un tamis."
+    },
+    {
+      "text": "Issawel lmelk ɣef yimi-s.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Un ange a parlé par sa bouche. (Prédiction réalisée / Parole sage)."
+    },
+    {
+      "text": "Yetruḥ uḍar anida yuzzel wul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les pieds vont là où le cœur court. (On va vers ceux qu'on aime)."
+    },
+    {
+      "text": "Urgaɣ targit, a t-yerr Ṛebbi ɣef lexla.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "J'ai fait un rêve, que Dieu l'emporte au désert. (Formule pour conjurer un mauvais rêve)."
+    },
+    {
+      "text": "Yuɣal-as uɣennuj t-tirgin.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Sa louche est devenue des braises. (Ses projets sont tombés à l'eau / Déception)."
+    },
+    {
+      "text": "Targit yurga weɣyul : tameddit iqqen axelxal, ṣṣbeḥ yufa-t-id d acekkul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le rêve de l'âne : le soir un anneau d'argent, le matin une entrave. (Les rêves sont trompeurs)."
+    },
+    {
+      "text": "Ma yella uḍad-is g tmess, ad ittu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Même si son doigt était dans le feu, il oublierait. (La distraction ou la passion aveugle)."
+    },
+    {
+      "text": "Ixuss-it leḥcic, yuɣal d azger.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il ne lui manque que l'herbe pour être un bœuf. (Bête à manger du foin)."
+    },
+    {
+      "text": "A win yesɛan rebɛa wallen : snat ad runt idammen, snat ad ẓrent medden.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Si j'avais quatre yeux : deux pour pleurer du sang, deux pour voir souffrir mes ennemis. (Désir de vengeance)."
+    },
+    {
+      "text": "Mkul asɣar s dexxwan-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Tout bois a sa fumée. (Il n'y a pas de plaisir sans peine / Chacun ses défauts)."
+    },
+    {
+      "text": "Bab n ddin medlul.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a une dette est méprisé/humilié."
+    },
+    {
+      "text": "Di tmurt iderɣalen, adeɛmamac qqaren-as : \"Ay uqil !\"",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Au pays des aveugles, le borgne (chassieux) est appelé \"l'homme aux beaux yeux\"."
+    },
+    {
+      "text": "Amayeg ufella, iteffeẓ, ur isseblaɛ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La mâchoire supérieure mâche mais n'avale pas. (Travailler sans profiter)."
+    },
+    {
+      "text": "Iwella ufus g tfettust.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La main est conduite par le petit doigt. (Le petit commande le grand)."
+    },
+    {
+      "text": "Ad imlil leɣyut leɣyut, ad kerzen lefyut.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Quand les braves se réunissent, ils labourent les terres en pente. (L'union fait la force)."
+    },
+    {
+      "text": "Ma teddiḍ d udebbal, a t-debbleḍ ; ma teddiḍ d uɣeggad, a t-ɣeggdeḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Si tu fréquentes un joueur de tambour, tu joueras ; si tu fréquentes un flûtiste, tu flûteras. (Mimétisme)."
+    },
+    {
+      "text": "Ur xelleḍ ara lɛali d dduni, ulli t-tɣeṭṭen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Ne mélange pas le bon et le mauvais, les brebis et les chèvres."
+    },
+    {
+      "text": "Ddu d useɛdi, a t-seɛdeḍ ; ddu d wemcum, a t-cummeḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Fréquente un heureux, tu le seras ; fréquente un maudit, tu le seras."
+    },
+    {
+      "text": "Mel-iyi anda qqimen, a k-iniɣ acu mmeslayen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Dis-moi où ils se sont assis, je te dirai de quoi ils ont parlé. (Le contexte dicte le discours)."
+    },
+    
+    {
+      "text": "Win ur nli, ur yelli.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui ne possède rien n'est rien. (La dure réalité sociale de la pauvreté)."
+    },
+    {
+      "text": "Ulac tijra ur nemhuz waḍu.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Il n'y a pas d'arbre que le vent n'a pas secoué. (Personne n'est à l'abri des épreuves)."
+    },
+    {
+      "text": "Ur d-yettarew uɣyul aɛewdiw.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "L'âne n'engendre pas un cheval. (Bon sang ne saurait mentir)."
+    },
+    {
+      "text": "Yir awal, d tismeẓt : anda ten-t-id-teḍḍreḍ, ad teqqim.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La mauvaise parole est comme de la résine : là où tu la jettes, elle colle. (La médisance laisse des traces indélébiles)."
+    },
+    {
+      "text": "Ddu d wi k-iḥemmlen, mačči d wi tḥemmleḍ.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Marche avec celui qui t'aime, pas avec celui que tu aimes. (Cherche la réciprocité et la sécurité affective)."
+    },
+    {
+      "text": "Win yugaden Ṛebbi, ur yettaggad lɛebd.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui craint Dieu ne craint pas l'homme. (La foi donne du courage)."
+    },
+    {
+      "text": "Ini-as i uɣyul : \"A y-aɛdaw n Ṛebbi\" ; yini-yak : \"D kečč i d gma\".",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Dis à l'âne : \"Ennemi de Dieu\" ; il te répondra : \"Tu es mon frère\". (L'ignorant ramène tout à son niveau)."
+    },
+    {
+      "text": "Abrid ɣer wul, d aɣrum.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le chemin vers le cœur, c'est le pain. (La reconnaissance passe par le ventre / La générosité)."
+    },
+    {
+      "text": "Lǧar ɣer ljar, tteftin lecyax.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "D'un voisin à l'autre, les braises voyagent. (Solidarité et proximité : on partage le feu)."
+    },
+    {
+      "text": "Win yeččan aɣrum-ik, yebɣa lmut-ik.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a mangé ton pain veut ta mort. (L'ingratitude suprême)."
+    },
+    {
+      "text": "Tirrugza, mačči d aččuren n tcekkart.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La virilité (dignité), ce n'est pas remplir un sac (d'argent). (L'honneur ne s'achète pas)."
+    },
+    {
+      "text": "Lḥeqq, d awezzug ; win i t-yeswan, yeffel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La vérité est une purge ; celui qui la boit a la diarrhée. (La vérité est difficile à digérer/supporter)."
+    },
+    {
+      "text": "Ad yif Ṛebbi lɣerba ɣef lqerba.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Que Dieu rende l'exil meilleur que la proximité. (Parfois, les étrangers valent mieux que la famille)."
+    },
+    {
+      "text": "Ul yebɣa, tasa tugi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le cœur veut, le foie refuse. (Conflit intérieur entre le désir et l'instinct/l'affection)."
+    },
+    {
+      "text": "Win i d-yennan \"Ahat\", yewwi-d azal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui a dit \"Peut-être\" a apporté de la valeur. (La prudence est mère de sûreté)."
+    },
+    {
+      "text": "Ur yettwaččay wara lqut n yiḍelli.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "On ne mange pas la nourriture d'hier. (Il faut aller de l'avant, le passé est passé)."
+    },
+    {
+      "text": "Iles d aḥeddad, ul d aẓeṭṭa.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La langue est le forgeron, le cœur est le tisserand. (La bouche façonne ce que le cœur trame)."
+    },
+    {
+      "text": "Lǧar, d gma-s n baba.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le voisin, c'est le frère du père. (Le respect dû au voisin est sacré)."
+    },
+    {
+      "text": "Win yesɛan, yugad ; win ur nesɛi, yugad.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui possède a peur (de perdre) ; celui qui n'a rien a peur (de l'avenir). (L'inquiétude est universelle)."
+    },
+    {
+      "text": "Ma ulac, ulac ; ma yella, bḍu d gma-k.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "S'il n'y a rien, il n'y a rien ; s'il y a quelque chose, partage avec ton frère."
+    },
+    {
+      "text": "Wi' bɣan tamemt, yesteqsi ɣef tjeǧǧigt.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui veut du miel se renseigne sur la fleur. (Chercher l'origine des choses)."
+    },
+    {
+      "text": "Win iḥemmlen, yettru.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Celui qui aime, pleure. (L'amour est inséparable de la souffrance)."
+    },
+    {
+      "text": "Yif-it lqell n rrjal, wala lqell n leɛqel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Mieux vaut manquer d'hommes (bras) que de sagesse (tête)."
+    },
+    {
+      "text": "Ayen yelhan i yiman-is, ayen n ddir i yiman-is.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le bien est pour soi, le mal est pour soi. (On est le premier bénéficiaire ou victime de ses actes)."
+    },
+    {
+      "text": "Awal d asawen, mačči d akessar.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "La parole est une montée, pas une descente. (Parler est difficile, cela demande un effort)."
+    },
+    {
+      "text": "Leḥbab, d iqjan n ssuq : mi d-teɣli tgeẓẓit, ad myaṭṭafen.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Les (faux) amis sont comme les chiens du marché : quand un os tombe, ils s'entretuent."
+    },
+    {
+      "text": "Ul d acekkar, mačči d axelxal.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le cœur est un sac (fermé), pas un anneau de cheville (qui fait du bruit). (Les sentiments profonds sont cachés)."
+    },
+    {
+      "text": "Ur yettili lḥeqq d lbaṭel.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Le vrai ne peut être faux. (La vérité est unique)."
+    },
+    {
+      "text": "Win yebɣan ad yeqqim, yeqqim ; win yebɣan ad iruḥ, abrid yeldi.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Qui veut rester, reste ; qui veut partir, la route est ouverte. (Liberté de choix)."
+    },
+    {
+      "text": "Aql-i am tɣaḍt n tneṣlemt.",
+      "author": "Proverbe Kabyle",
+      "source": "Inzan (Tradition orale)",
+      "def": "Je suis comme la chèvre du musulman (sacrifiée). (Être le dindon de la farce)."
+    }
+  
+  ]
+}
