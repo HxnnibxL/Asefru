@@ -1,9 +1,8 @@
-
 import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { Language, Quote, QuotesDatabase, Theme } from './types';
 import { Sun, Moon, Keyboard, Copy, Check, History as HistoryIcon, ArrowUpRight, Share2, X, Twitter, Facebook, Linkedin, Mail, MessageCircle, Languages, Info, Menu, Search } from 'lucide-react';
 import LightRays from './LightRays';
-// Ajoutez cette ligne avec vos autres imports
+// Import direct des données (Correction Vercel)
 import quotesData from './quotes.json';
 
 const TypewriterIntro: React.FC = () => {
@@ -30,9 +29,13 @@ const TypewriterIntro: React.FC = () => {
 };
 
 const App: React.FC = () => {
+  // --- ÉTATS (STATE) ---
   const [theme, setTheme] = useState<Theme>('dark');
   const [lang, setLang] = useState<Language>(Language.FR);
-  const [db, setDb] = useState<QuotesDatabase | null>(null);
+  
+  // CORRECTION : Initialisation directe avec les données importées (plus de null, plus de fetch)
+  const [db, setDb] = useState<QuotesDatabase>(quotesData as unknown as QuotesDatabase);
+  
   const [currentQuote, setCurrentQuote] = useState<Quote | null>(null);
   const [history, setHistory] = useState<Quote[]>([]);
   const [isAnimate, setIsAnimate] = useState(false);
@@ -46,11 +49,11 @@ const App: React.FC = () => {
   const [copiedIndex, setCopiedIndex] = useState<number | null>(null);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   
-  // State to track unvisited quotes for each language (shuffled deck)
-  const [remainingIndices, setRemainingIndices] = useState<{ [key in Language]: number[] }>({
-    [Language.FR]: [],
-    [Language.KAB]: []
-  });
+  // CORRECTION : Initialisation des indices directement
+  const [remainingIndices, setRemainingIndices] = useState<{ [key in Language]: number[] }>(() => ({
+    [Language.FR]: Array.from({ length: quotesData[Language.FR].length }, (_, i) => i),
+    [Language.KAB]: Array.from({ length: quotesData[Language.KAB].length }, (_, i) => i)
+  }));
   
   // Custom Share Modal State
   const [isShareModalOpen, setIsShareModalOpen] = useState(false);
@@ -77,21 +80,6 @@ const App: React.FC = () => {
     return palettes[lang][theme][paletteIndex];
   }, [lang, theme, paletteIndex, showIntro, palettes]);
 
-  // Load separated local quotes on mount
-  useEffect(() => {
-    fetch('./quotes.json')
-      .then(res => res.json())
-      .then(data => {
-        setDb(data);
-        // Initialize indices for both languages
-        const initialIndices = {
-          [Language.FR]: Array.from({ length: data[Language.FR].length }, (_, i) => i),
-          [Language.KAB]: Array.from({ length: data[Language.KAB].length }, (_, i) => i)
-        };
-        setRemainingIndices(initialIndices);
-      })
-      .catch(err => console.error("Failed to load quotes database:", err));
-  }, []);
 
   // Sync theme with HTML class
   useEffect(() => {
@@ -265,13 +253,7 @@ const App: React.FC = () => {
     setIsMobileMenuOpen(false);
   }, [showIntro, getNextQuote]);
 
-  const [db, setDb] = useState<QuotesDatabase>(quotesData as unknown as QuotesDatabase);
-
-  const [remainingIndices, setRemainingIndices] = useState(() => ({
-    [Language.FR]: Array.from({ length: quotesData[Language.FR].length }, (_, i) => i),
-    [Language.KAB]: Array.from({ length: quotesData[Language.KAB].length }, (_, i) => i)
-  }));
-
+  // CORRECTION : Écouteur clavier unique et nettoyé
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
       const key = event.key.toLowerCase();
@@ -285,7 +267,10 @@ const App: React.FC = () => {
 
       if (event.code === 'Space') {
         event.preventDefault();
-        getNextQuote();
+        // Petite sécurité supplémentaire
+        if (typeof getNextQuote === 'function') {
+           getNextQuote();
+        }
       } else if (event.key === '1') {
         handleLangSelect(Language.FR);
       } else if (event.key === '2') {
@@ -587,7 +572,7 @@ const App: React.FC = () => {
                         "{quote.text}"
                       </p>
                       <div className="flex items-center gap-3">
-                         <span className="text-[11px] font-bold text-[#0d0c0c]/60 dark:text-zinc-500 tracking-[0.2em] uppercase">
+                          <span className="text-[11px] font-bold text-[#0d0c0c]/60 dark:text-zinc-500 tracking-[0.2em] uppercase">
                           — {quote.author}{quote.source ? `, ${quote.source}` : ''}
                         </span>
                       </div>
